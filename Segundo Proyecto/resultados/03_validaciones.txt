@@ -1,0 +1,48 @@
+total_nodos
+865
+total_relaciones
+11648
+tipo_nodo, cantidad
+"Chef", 100
+"Platillo", 50
+"Restaurante", 200
+"TipoCocina", 15
+"Usuario", 500
+tipo_relacion, cantidad
+"CALIFICÓ", 2200
+"ES_AMIGO_DE", 1500
+"LE_GUSTA", 1984
+"OFRECE", 1426
+"PERTENECE_A", 413
+"PREPARA", 350
+"TRABAJA_EN", 275
+"VISITÓ", 3500
+nodos_sin_id
+0
+calificaciones_fuera_de_rango
+0
+ofertas_duplicadas
+0
+visitas_con_consumo_invalido
+0
+restaurantes_sin_tipo_cocina
+0
+restaurantes_sin_platillos
+0
+usuario, restaurante_bien_valorado, chef_compartido, recomendacion
+"Jaime Pascual Sepúlveda", "Restaurante Meléndez 1", "Lic. Mercedes Robledo", "Restaurante Almanza 3"
+"Jaime Pascual Sepúlveda", "Restaurante Meléndez 1", "Lic. Mercedes Robledo", "Restaurante Carvajal 2"
+"Jaime Pascual Sepúlveda", "Restaurante Meléndez 1", "Zeferino Samuel Gil", "Restaurante Cordero 111"
+"Jaime Pascual Sepúlveda", "Restaurante de la Garza 15", "Sr. Joaquín Gaitán", "Restaurante Crespo 152"
+"Jaime Pascual Sepúlveda", "Restaurante de la Garza 15", "Sr. Joaquín Gaitán", "Restaurante Esquivel 55"
+"Jaime Pascual Sepúlveda", "Restaurante Meléndez 1", "María José Ariadna Báez", "Restaurante Gálvez 68"
+"Jaime Pascual Sepúlveda", "Restaurante de la Garza 15", "Sr. Joaquín Gaitán", "Restaurante Herrera 86"
+"Jaime Pascual Sepúlveda", "Restaurante de la Garza 15", "Dr. Francisco Javier Galarza", "Restaurante Laboy 121"
+"Jaime Pascual Sepúlveda", "Restaurante de la Garza 15", "Dr. Francisco Javier Galarza", "Restaurante Longoria 69"
+"Jaime Pascual Sepúlveda", "Restaurante Meléndez 1", "Zeferino Samuel Gil", "Restaurante Rael 6"
+"Jaime Pascual Sepúlveda", "Restaurante Meléndez 1", "Zeferino Samuel Gil", "Restaurante Salgado 62"
+"Jaime Pascual Sepúlveda", "Restaurante de la Garza 15", "Dr. Francisco Javier Galarza", "Restaurante Soliz 12"
+"Jaime Pascual Sepúlveda", "Restaurante Meléndez 1", "María José Ariadna Báez", "Restaurante Velásquez 37"
+"Jaime Pascual Sepúlveda", "Restaurante Meléndez 1", "María José Ariadna Báez", "Restaurante de la Rosa 198"
+usuario_origen, usuario_destino, grados_separacion
+"Jaime Pascual Sepúlveda", "Francisco Javier Timoteo Valadez", 4

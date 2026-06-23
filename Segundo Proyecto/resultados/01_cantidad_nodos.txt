@@ -1,0 +1,6 @@
+tipo, cantidad
+"Chef", 100
+"Platillo", 50
+"Restaurante", 200
+"TipoCocina", 15
+"Usuario", 500

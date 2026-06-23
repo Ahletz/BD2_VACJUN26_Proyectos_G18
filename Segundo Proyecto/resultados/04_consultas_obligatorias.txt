@@ -1,0 +1,104 @@
+restaurante_id, restaurante, cantidad_tipos_cocina, tipos_cocina
+191, "Restaurante Aguilera 191", 3, ["India", "Peruana", "Tailandesa"]
+96, "Restaurante Arevalo 96", 3, ["Italiana", "Tailandesa", "Guatemalteca"]
+104, "Restaurante Arredondo 104", 3, ["Argentina", "Vegetariana", "Mariscos"]
+79, "Restaurante Arreola 79", 3, ["Japonesa", "Argentina", "Vegetariana"]
+170, "Restaurante Badillo 170", 3, ["China", "India", "Japonesa"]
+144, "Restaurante Baeza 144", 3, ["Japonesa", "Mexicana", "Guatemalteca"]
+181, "Restaurante Barela 181", 3, ["Italiana", "Argentina", "China"]
+77, "Restaurante Barreto 77", 3, ["Vegetariana", "India", "Argentina"]
+106, "Restaurante Barrios 106", 3, ["Italiana", "Vegetariana", "China"]
+85, "Restaurante Beltrán 85", 3, ["Mariscos", "India", "Mediterránea"]
+restaurante_id, restaurante, total_visitas, visitas_con_reserva, tasa_reservas_porcentaje
+25, "Restaurante Chavarría 25", 17, 15, 88.24
+170, "Restaurante Badillo 170", 8, 7, 87.5
+180, "Restaurante Olivo 180", 18, 15, 83.33
+71, "Restaurante Iglesias 71", 29, 24, 82.76
+184, "Restaurante Raya 184", 15, 12, 80.0
+145, "Restaurante Sarabia 145", 15, 12, 80.0
+109, "Restaurante Elizondo 109", 14, 11, 78.57
+185, "Restaurante Fuentes 185", 14, 11, 78.57
+70, "Restaurante Cervantes 70", 18, 14, 77.78
+138, "Restaurante Pedraza 138", 13, 10, 76.92
+usuario_id, usuario, cantidad_visitas, gasto_promedio, gasto_total
+210, "Marco Antonio Angulo", 1, 649.64, 649.64
+248, "Nayeli Sonia Aranda Moya", 5, 551.64, 2758.19
+263, "Eugenia Sessa de la Garza", 1, 538.99, 538.99
+350, "Frida Wendolin Hinojosa", 7, 513.47, 3594.31
+140, "Conchita Estrada Rivas", 3, 507.4, 1522.2
+117, "Sr. Julio César Olivares", 7, 498.99, 3492.93
+271, "Claudio Ocasio", 4, 498.38, 1993.53
+78, "Gregorio Gonzalo Barajas Alcaraz", 6, 495.3, 2971.78
+330, "Rocío Pamela Márquez", 6, 487.97, 2927.79
+181, "Uriel Fidel Anaya", 8, 483.26, 3866.04
+usuario_id, usuario, visitas_ultimos_180_dias, restaurantes_visitados
+467, "Mauro Emiliano Ocampo", 7, 7
+387, "Eva Lugo Ceja", 6, 6
+497, "Dr. Genaro Navarrete", 6, 6
+469, "Rafaél Enrique Vega Alvarado", 6, 6
+131, "Jerónimo Omar Carbajal", 6, 6
+296, "Marcos Santiago Castillo Rael", 5, 5
+364, "Olga Lilia Romo Quintana", 5, 5
+322, "María José Irene Calvillo Arreola", 5, 5
+472, "Dr. Lorenzo Dávila", 5, 5
+124, "Uriel Rosado Pichardo", 5, 5
+restaurante_id, restaurante, ultima_visita, dias_sin_visitas
+197, "Restaurante Corral 197", 2025-08-15, 312
+195, "Restaurante Salgado 195", 2025-08-19, 308
+192, "Restaurante Becerra 192", 2025-08-21, 306
+200, "Restaurante Cabrera 200", 2025-10-17, 249
+164, "Restaurante Blanco 164", 2025-11-02, 233
+199, "Restaurante Figueroa 199", 2025-11-15, 220
+196, "Restaurante Cortés 196", 2025-11-21, 214
+198, "Restaurante de la Rosa 198", 2025-11-25, 210
+193, "Restaurante Cordero 193", 2025-11-29, 206
+194, "Restaurante Lara 194", 2025-12-03, 202
+chef_id, chef, nacionalidad, restaurantes_donde_ha_trabajado, restaurantes
+3, "Alicia Andrea Ornelas", "Mexicana", 4, ["Restaurante Crespo 152", "Restaurante Flórez 41", "Restaurante Madrid 87", "Restaurante Jurado 98"]
+30, "Amador Gutiérrez", "Costarricense", 4, ["Restaurante Sáenz 175", "Restaurante Raya 184", "Restaurante Meraz 154", "Restaurante Hernandes 156"]
+25, "Amalia Isabel del Río", "Peruana", 4, ["Restaurante Cuellar 131", "Restaurante Mojica 44", "Restaurante Barrios 106", "Restaurante de la Rosa 189"]
+21, "Amanda Frías Montañez", "Peruana", 4, ["Restaurante Nieto 75", "Restaurante Irizarry 126", "Restaurante Portillo 130", "Restaurante Mercado 174"]
+58, "Anabel Aguirre Saucedo", "Argentina", 4, ["Restaurante Acuña 9", "Restaurante Arevalo 96", "Restaurante Almanza 3", "Restaurante Ojeda 78"]
+98, "Andrea de la O Centeno", "Salvadoreña", 4, ["Restaurante de la Fuente 11", "Restaurante Velásquez 37", "Restaurante Santana 61", "Restaurante Barreto 77"]
+70, "Blanca Itzel Vallejo", "Argentina", 4, ["Restaurante Rocha 66", "Restaurante Carrera 92", "Restaurante Medrano 127", "Restaurante Olivo 180"]
+44, "Blanca Sessa Orosco", "Hondureña", 4, ["Restaurante Quiñónez 173", "Restaurante Vera 10", "Restaurante Aguilera 191", "Restaurante Cuellar 131"]
+16, "Carlota Salgado", "Costarricense", 4, ["Restaurante Irizarry 126", "Restaurante Pineda 102", "Restaurante Carvajal 2", "Restaurante Rodarte 143"]
+66, "César Gonzalo Sanabria Mondragón", "Argentina", 4, ["Restaurante Ceballos 179", "Restaurante Laboy 121", "Restaurante Velásquez 93", "Restaurante Casillas 82"]
+platillo_id, platillo, cantidad_restaurantes, precio_minimo, precio_maximo, precio_promedio, variacion_precio
+33, "Pad thai", 23, 186.54, 366.86, 274.89, 180.32
+12, "Risotto", 32, 193.97, 371.94, 280.19, 177.97
+1, "Pepián", 25, 177.89, 347.96, 273.21, 170.07
+2, "Kak ik", 26, 183.59, 351.4, 258.77, 167.81
+27, "Falafel", 29, 159.71, 318.33, 226.26, 158.62
+25, "Paella", 19, 188.49, 344.44, 263.55, 155.95
+29, "Pollo tikka masala", 24, 184.11, 338.43, 272.35, 154.32
+45, "Hot dog", 30, 154.75, 305.49, 225.12, 150.74
+13, "Sushi", 28, 191.33, 341.37, 259.91, 150.04
+39, "Ceviche", 25, 159.5, 307.68, 235.74, 148.18
+tipo_cocina_id, tipo_cocina, visitas_periodo_anterior, visitas_periodo_actual, diferencia_visitas, crecimiento_porcentual
+2, "Mexicana", 311, 342, 31, 9.97
+13, "Vegetariana", 238, 260, 22, 9.24
+15, "Comida rápida", 181, 197, 16, 8.84
+12, "Argentina", 207, 212, 5, 2.42
+9, "Tailandesa", 185, 189, 4, 2.16
+7, "Mediterránea", 266, 270, 4, 1.5
+10, "Coreana", 110, 111, 1, 0.91
+3, "Italiana", 260, 255, -5, -1.92
+8, "India", 253, 245, -8, -3.16
+4, "Japonesa", 265, 256, -9, -3.4
+5, "China", 265, 250, -15, -5.66
+6, "Francesa", 298, 280, -18, -6.04
+14, "Mariscos", 299, 268, -31, -10.37
+11, "Peruana", 226, 193, -33, -14.6
+1, "Guatemalteca", 285, 240, -45, -15.79
+usuario_id, usuario, restaurante_id, recomendacion, cantidad_chefs_compartidos, chefs_compartidos, mejor_calificacion_origen, calificacion_promedio_comunidad
+1, "Jaime Pascual Sepúlveda", 37, "Restaurante Velásquez 37", 1, ["María José Ariadna Báez"], 5, 3.88
+1, "Jaime Pascual Sepúlveda", 68, "Restaurante Gálvez 68", 1, ["María José Ariadna Báez"], 5, 3.67
+1, "Jaime Pascual Sepúlveda", 111, "Restaurante Cordero 111", 1, ["Zeferino Samuel Gil"], 5, 3.38
+1, "Jaime Pascual Sepúlveda", 62, "Restaurante Salgado 62", 1, ["Zeferino Samuel Gil"], 5, 3.25
+1, "Jaime Pascual Sepúlveda", 6, "Restaurante Rael 6", 1, ["Zeferino Samuel Gil"], 5, 3.11
+1, "Jaime Pascual Sepúlveda", 198, "Restaurante de la Rosa 198", 1, ["María José Ariadna Báez"], 5, 3.0
+1, "Jaime Pascual Sepúlveda", 2, "Restaurante Carvajal 2", 1, ["Lic. Mercedes Robledo"], 5, 2.93
+1, "Jaime Pascual Sepúlveda", 3, "Restaurante Almanza 3", 1, ["Lic. Mercedes Robledo"], 5, 2.4
+1, "Jaime Pascual Sepúlveda", 121, "Restaurante Laboy 121", 1, ["Dr. Francisco Javier Galarza"], 4, 3.46
+1, "Jaime Pascual Sepúlveda", 69, "Restaurante Longoria 69", 1, ["Dr. Francisco Javier Galarza"], 4, 3.4
