@@ -1,0 +1,2201 @@
+usuario_id,restaurante_id,puntuacion,fecha,comentario
+1,1,5,2026-05-28,Excelente restaurante y gran trabajo del chef.
+80,175,4,2025-04-30,Excelente servicio y comida.
+108,121,1,2026-06-12,Excelente servicio y comida.
+454,63,5,2025-10-16,La experiencia fue aceptable.
+89,117,3,2025-02-15,La atención fue rápida.
+168,5,1,2025-09-16,Los platillos estuvieron bien preparados.
+500,104,3,2025-03-19,La experiencia fue aceptable.
+329,29,4,2024-07-11,Los platillos estuvieron bien preparados.
+436,117,4,2025-11-01,La comida estuvo deliciosa.
+412,108,5,2025-12-25,Buena relación entre precio y calidad.
+235,171,4,2026-02-15,Muy buena experiencia.
+412,57,2,2025-01-02,Muy buena experiencia.
+373,104,1,2026-03-31,Muy buena experiencia.
+92,97,1,2025-06-21,El servicio puede mejorar.
+102,99,2,2024-10-10,Excelente servicio y comida.
+438,14,2,2025-08-11,Los platillos estuvieron bien preparados.
+426,6,2,2025-11-19,Muy buena experiencia.
+470,175,4,2024-07-11,Buena relación entre precio y calidad.
+104,20,5,2026-04-22,Muy buena experiencia.
+135,194,5,2025-06-28,Muy buena experiencia.
+88,114,4,2025-06-06,El servicio puede mejorar.
+42,6,1,2025-01-01,La experiencia fue aceptable.
+29,121,4,2026-03-24,El ambiente fue agradable.
+123,5,4,2026-02-02,El ambiente fue agradable.
+206,158,4,2024-09-24,La experiencia fue aceptable.
+240,186,2,2026-06-05,Regresaría nuevamente.
+242,61,4,2025-08-03,Excelente servicio y comida.
+208,90,5,2024-08-23,Los platillos estuvieron bien preparados.
+12,83,3,2025-11-06,Regresaría nuevamente.
+228,50,2,2025-10-09,El servicio puede mejorar.
+54,193,5,2026-04-21,Buena relación entre precio y calidad.
+88,33,2,2026-04-04,La atención fue rápida.
+11,105,3,2025-03-11,La atención fue rápida.
+276,18,5,2026-01-15,Muy buena experiencia.
+214,28,2,2026-06-12,Muy buena experiencia.
+42,108,2,2025-01-18,La atención fue rápida.
+302,1,4,2025-03-26,La atención fue rápida.
+447,57,5,2025-02-05,Buena relación entre precio y calidad.
+417,157,5,2025-01-28,Los platillos estuvieron bien preparados.
+64,65,1,2026-05-24,La comida estuvo deliciosa.
+226,199,4,2025-03-07,Muy buena experiencia.
+44,85,1,2025-05-13,La experiencia fue aceptable.
+77,122,4,2025-09-14,El ambiente fue agradable.
+454,20,2,2024-06-23,Los platillos estuvieron bien preparados.
+367,172,1,2025-10-11,Regresaría nuevamente.
+164,20,2,2025-10-14,Muy buena experiencia.
+396,28,2,2025-10-16,La comida estuvo deliciosa.
+34,146,3,2025-01-26,Buena relación entre precio y calidad.
+79,72,2,2024-11-14,Muy buena experiencia.
+149,142,2,2026-03-18,Buena relación entre precio y calidad.
+344,7,4,2026-04-18,El ambiente fue agradable.
+493,14,2,2024-10-14,El ambiente fue agradable.
+186,11,4,2026-02-01,Los platillos estuvieron bien preparados.
+195,38,4,2024-07-23,Regresaría nuevamente.
+440,179,2,2024-10-11,Regresaría nuevamente.
+350,171,4,2025-06-30,La comida estuvo deliciosa.
+390,27,2,2025-02-03,El servicio puede mejorar.
+498,2,5,2026-04-27,La atención fue rápida.
+139,198,3,2025-09-27,Muy buena experiencia.
+374,28,1,2025-02-14,La experiencia fue aceptable.
+242,193,1,2024-09-09,El servicio puede mejorar.
+322,71,1,2026-03-25,La atención fue rápida.
+376,66,3,2026-06-01,La atención fue rápida.
+308,55,3,2025-09-07,La atención fue rápida.
+364,86,5,2025-02-05,Los platillos estuvieron bien preparados.
+489,191,5,2024-10-29,La atención fue rápida.
+8,44,4,2025-04-22,La atención fue rápida.
+85,162,1,2024-12-29,Buena relación entre precio y calidad.
+433,91,5,2025-03-26,El servicio puede mejorar.
+26,39,4,2025-06-29,Los platillos estuvieron bien preparados.
+58,15,3,2025-02-15,Los platillos estuvieron bien preparados.
+218,72,1,2025-12-16,Regresaría nuevamente.
+17,107,2,2025-03-01,Regresaría nuevamente.
+75,51,3,2025-04-24,Buena relación entre precio y calidad.
+242,101,2,2026-03-03,Buena relación entre precio y calidad.
+445,19,3,2025-04-24,Buena relación entre precio y calidad.
+384,190,2,2026-05-20,Excelente servicio y comida.
+267,104,4,2024-07-29,Los platillos estuvieron bien preparados.
+262,184,1,2025-06-26,La atención fue rápida.
+109,137,4,2026-02-28,Excelente servicio y comida.
+294,65,1,2025-05-16,Excelente servicio y comida.
+486,130,3,2025-08-24,Buena relación entre precio y calidad.
+141,107,5,2025-12-23,La atención fue rápida.
+240,154,2,2025-12-06,El servicio puede mejorar.
+40,78,5,2024-08-31,La atención fue rápida.
+278,194,4,2024-09-13,Muy buena experiencia.
+425,108,1,2026-01-06,Buena relación entre precio y calidad.
+312,191,3,2026-02-26,La atención fue rápida.
+50,66,4,2026-06-14,Los platillos estuvieron bien preparados.
+93,57,1,2025-11-11,La experiencia fue aceptable.
+385,199,5,2026-01-17,La atención fue rápida.
+479,92,5,2026-04-19,Los platillos estuvieron bien preparados.
+101,100,5,2024-12-11,El servicio puede mejorar.
+346,57,5,2025-01-31,Excelente servicio y comida.
+468,98,2,2026-03-14,La experiencia fue aceptable.
+420,153,5,2025-02-04,El servicio puede mejorar.
+118,153,4,2025-02-18,La comida estuvo deliciosa.
+274,175,2,2025-08-25,El ambiente fue agradable.
+220,38,3,2025-01-23,El ambiente fue agradable.
+107,193,3,2025-04-20,La experiencia fue aceptable.
+131,76,3,2025-08-19,La experiencia fue aceptable.
+429,191,1,2025-04-16,La experiencia fue aceptable.
+361,148,2,2025-10-30,La comida estuvo deliciosa.
+449,148,3,2025-04-10,Buena relación entre precio y calidad.
+71,166,2,2026-01-16,La atención fue rápida.
+270,183,2,2025-04-14,La atención fue rápida.
+161,14,3,2024-07-21,El servicio puede mejorar.
+335,130,2,2026-03-22,Regresaría nuevamente.
+73,41,4,2025-05-25,Muy buena experiencia.
+97,120,3,2025-09-10,Buena relación entre precio y calidad.
+341,181,4,2025-02-13,Excelente servicio y comida.
+27,16,1,2026-04-02,La experiencia fue aceptable.
+271,143,2,2025-10-18,Regresaría nuevamente.
+271,10,5,2024-09-20,Regresaría nuevamente.
+359,152,4,2025-03-19,Excelente servicio y comida.
+349,25,1,2025-08-03,La atención fue rápida.
+248,182,1,2025-07-08,Muy buena experiencia.
+4,180,5,2026-03-02,La comida estuvo deliciosa.
+187,195,4,2025-07-02,El ambiente fue agradable.
+107,130,3,2024-12-23,Excelente servicio y comida.
+418,179,5,2025-05-27,Buena relación entre precio y calidad.
+361,94,2,2025-03-06,Regresaría nuevamente.
+124,35,4,2024-12-06,Regresaría nuevamente.
+376,25,1,2025-07-13,Buena relación entre precio y calidad.
+154,179,1,2025-05-06,Buena relación entre precio y calidad.
+372,78,1,2025-08-17,El servicio puede mejorar.
+333,66,4,2024-10-27,La experiencia fue aceptable.
+363,144,1,2024-08-16,La comida estuvo deliciosa.
+435,26,1,2025-11-11,Muy buena experiencia.
+51,37,5,2025-05-09,Regresaría nuevamente.
+184,140,1,2025-11-03,La experiencia fue aceptable.
+192,72,2,2024-12-15,Excelente servicio y comida.
+271,193,4,2026-01-11,Los platillos estuvieron bien preparados.
+189,123,2,2026-01-05,Regresaría nuevamente.
+393,25,1,2025-02-27,Excelente servicio y comida.
+178,36,1,2025-04-02,Excelente servicio y comida.
+476,122,5,2024-09-22,Excelente servicio y comida.
+439,75,1,2024-11-16,Los platillos estuvieron bien preparados.
+221,137,5,2024-11-04,El ambiente fue agradable.
+251,72,3,2025-02-01,Los platillos estuvieron bien preparados.
+433,173,2,2025-04-15,Regresaría nuevamente.
+361,2,2,2025-04-05,La experiencia fue aceptable.
+40,171,3,2026-04-16,La experiencia fue aceptable.
+410,30,4,2024-08-04,El servicio puede mejorar.
+317,65,5,2025-08-28,El servicio puede mejorar.
+202,153,2,2025-01-05,Buena relación entre precio y calidad.
+494,153,4,2024-10-10,Regresaría nuevamente.
+400,160,2,2025-09-29,Excelente servicio y comida.
+329,193,3,2025-12-03,La comida estuvo deliciosa.
+324,153,3,2025-08-18,Los platillos estuvieron bien preparados.
+475,44,1,2025-09-21,Excelente servicio y comida.
+82,130,1,2025-08-19,Los platillos estuvieron bien preparados.
+439,20,4,2026-02-07,Muy buena experiencia.
+261,2,1,2024-10-16,La comida estuvo deliciosa.
+304,145,5,2025-11-01,La experiencia fue aceptable.
+321,40,5,2025-04-22,La atención fue rápida.
+186,88,5,2024-07-09,El servicio puede mejorar.
+16,142,1,2026-05-22,Buena relación entre precio y calidad.
+159,81,4,2025-03-13,La atención fue rápida.
+420,52,4,2025-09-09,El ambiente fue agradable.
+365,133,3,2025-11-04,El ambiente fue agradable.
+325,176,5,2026-02-02,La experiencia fue aceptable.
+314,135,2,2026-06-21,El ambiente fue agradable.
+441,60,2,2025-08-08,El servicio puede mejorar.
+476,111,5,2024-07-07,Regresaría nuevamente.
+13,200,3,2024-11-03,El ambiente fue agradable.
+397,125,3,2026-06-19,La atención fue rápida.
+110,46,5,2024-09-29,La atención fue rápida.
+327,149,3,2024-10-19,La atención fue rápida.
+277,27,1,2026-05-30,Los platillos estuvieron bien preparados.
+314,57,4,2026-04-04,Regresaría nuevamente.
+258,48,3,2025-04-04,Buena relación entre precio y calidad.
+439,64,4,2026-04-07,Muy buena experiencia.
+218,94,4,2024-12-12,El ambiente fue agradable.
+131,53,3,2025-04-15,Excelente servicio y comida.
+413,96,4,2025-10-17,El servicio puede mejorar.
+443,113,1,2024-11-23,La atención fue rápida.
+277,3,1,2024-10-19,La atención fue rápida.
+315,55,2,2024-07-05,Muy buena experiencia.
+395,25,2,2024-11-22,Buena relación entre precio y calidad.
+10,178,2,2024-11-24,El servicio puede mejorar.
+388,98,4,2025-01-28,La experiencia fue aceptable.
+394,35,5,2025-06-28,Muy buena experiencia.
+36,178,5,2024-11-07,Muy buena experiencia.
+488,3,3,2026-06-13,El ambiente fue agradable.
+408,187,3,2026-01-10,La comida estuvo deliciosa.
+450,170,2,2025-03-24,La comida estuvo deliciosa.
+421,101,5,2025-04-29,Buena relación entre precio y calidad.
+67,189,3,2025-03-15,Muy buena experiencia.
+278,198,3,2024-10-27,El ambiente fue agradable.
+95,82,4,2024-10-22,Los platillos estuvieron bien preparados.
+449,9,4,2025-01-30,Muy buena experiencia.
+474,178,1,2025-03-31,El servicio puede mejorar.
+452,74,2,2026-01-17,Regresaría nuevamente.
+325,56,1,2025-09-03,Los platillos estuvieron bien preparados.
+405,94,1,2024-09-22,La atención fue rápida.
+147,192,2,2026-02-21,La atención fue rápida.
+61,51,5,2025-07-02,La atención fue rápida.
+431,107,5,2025-02-11,La comida estuvo deliciosa.
+319,157,5,2025-06-29,Buena relación entre precio y calidad.
+419,45,4,2025-03-24,Los platillos estuvieron bien preparados.
+44,192,5,2025-10-26,La atención fue rápida.
+351,192,4,2025-03-27,Los platillos estuvieron bien preparados.
+163,184,3,2025-08-26,La experiencia fue aceptable.
+172,134,4,2024-07-31,Los platillos estuvieron bien preparados.
+493,26,2,2025-07-07,Regresaría nuevamente.
+52,90,2,2025-11-14,Buena relación entre precio y calidad.
+135,94,4,2024-12-03,El ambiente fue agradable.
+264,32,5,2024-09-26,La comida estuvo deliciosa.
+40,76,4,2024-06-22,El servicio puede mejorar.
+343,91,5,2024-08-26,La comida estuvo deliciosa.
+99,41,2,2026-03-27,El ambiente fue agradable.
+71,85,1,2025-08-28,Buena relación entre precio y calidad.
+264,113,5,2025-03-14,La experiencia fue aceptable.
+274,147,2,2025-09-15,Los platillos estuvieron bien preparados.
+477,193,5,2025-10-19,La experiencia fue aceptable.
+96,55,3,2025-04-03,Excelente servicio y comida.
+143,58,2,2025-09-06,Muy buena experiencia.
+83,135,3,2025-08-29,El servicio puede mejorar.
+121,120,2,2025-01-11,Muy buena experiencia.
+133,24,1,2025-10-13,El servicio puede mejorar.
+494,25,3,2025-05-25,La experiencia fue aceptable.
+150,33,2,2025-08-29,La experiencia fue aceptable.
+403,95,2,2024-09-28,Regresaría nuevamente.
+473,106,4,2026-02-16,El ambiente fue agradable.
+433,102,4,2026-02-21,La atención fue rápida.
+151,87,4,2024-07-23,Muy buena experiencia.
+204,74,4,2024-09-13,Excelente servicio y comida.
+498,78,3,2025-01-19,El servicio puede mejorar.
+118,4,2,2025-05-02,La experiencia fue aceptable.
+342,8,4,2025-09-25,La experiencia fue aceptable.
+425,2,1,2025-03-13,La atención fue rápida.
+20,172,3,2026-05-07,Excelente servicio y comida.
+261,182,5,2025-07-13,Regresaría nuevamente.
+115,10,1,2024-07-02,El servicio puede mejorar.
+306,56,1,2025-09-29,El servicio puede mejorar.
+422,107,5,2026-04-30,La atención fue rápida.
+77,198,4,2025-02-22,El ambiente fue agradable.
+58,108,1,2025-08-18,Muy buena experiencia.
+295,16,2,2025-03-26,La atención fue rápida.
+346,93,1,2026-02-11,Regresaría nuevamente.
+93,41,5,2026-02-23,La atención fue rápida.
+465,189,4,2025-12-12,La atención fue rápida.
+118,165,3,2025-07-19,Regresaría nuevamente.
+170,126,1,2025-02-24,Muy buena experiencia.
+30,183,3,2025-12-04,Regresaría nuevamente.
+285,198,3,2024-09-10,Buena relación entre precio y calidad.
+419,33,5,2026-03-27,Regresaría nuevamente.
+277,68,5,2025-06-17,La atención fue rápida.
+14,119,3,2024-09-07,Regresaría nuevamente.
+476,141,2,2024-11-05,El servicio puede mejorar.
+60,105,4,2025-09-02,La atención fue rápida.
+68,146,2,2025-03-20,El ambiente fue agradable.
+499,173,1,2026-03-22,La comida estuvo deliciosa.
+41,158,5,2024-08-14,Los platillos estuvieron bien preparados.
+143,47,5,2026-03-10,La atención fue rápida.
+303,108,1,2025-05-06,El ambiente fue agradable.
+74,130,3,2024-11-29,Regresaría nuevamente.
+137,80,4,2025-12-31,Los platillos estuvieron bien preparados.
+467,94,3,2025-03-11,Excelente servicio y comida.
+160,1,4,2026-02-03,El ambiente fue agradable.
+413,125,1,2025-10-20,Buena relación entre precio y calidad.
+98,134,1,2025-12-15,Buena relación entre precio y calidad.
+238,153,5,2025-06-30,Excelente servicio y comida.
+351,163,2,2025-03-06,Regresaría nuevamente.
+50,140,1,2025-10-09,Regresaría nuevamente.
+202,117,5,2026-01-05,La atención fue rápida.
+496,109,2,2026-06-07,Muy buena experiencia.
+136,129,4,2024-12-04,La comida estuvo deliciosa.
+453,103,2,2025-11-11,Los platillos estuvieron bien preparados.
+428,165,1,2024-11-08,El servicio puede mejorar.
+321,88,4,2024-07-10,La comida estuvo deliciosa.
+19,49,4,2025-07-19,Muy buena experiencia.
+101,3,4,2024-10-14,La comida estuvo deliciosa.
+319,34,3,2026-01-17,Excelente servicio y comida.
+480,9,2,2024-08-21,Excelente servicio y comida.
+355,163,3,2025-01-27,El ambiente fue agradable.
+200,184,1,2025-09-26,Buena relación entre precio y calidad.
+438,193,3,2025-10-13,El ambiente fue agradable.
+488,196,3,2025-06-14,La atención fue rápida.
+171,67,4,2025-10-17,La atención fue rápida.
+247,50,2,2026-01-31,El ambiente fue agradable.
+311,163,5,2026-05-17,El ambiente fue agradable.
+448,150,4,2025-06-10,Los platillos estuvieron bien preparados.
+328,25,3,2025-03-25,Muy buena experiencia.
+184,19,5,2024-09-23,Buena relación entre precio y calidad.
+148,147,3,2025-04-02,La comida estuvo deliciosa.
+465,13,5,2026-01-09,Regresaría nuevamente.
+276,77,3,2025-08-21,La experiencia fue aceptable.
+65,110,3,2026-03-30,Muy buena experiencia.
+456,161,1,2024-10-14,Los platillos estuvieron bien preparados.
+101,130,2,2025-12-22,Buena relación entre precio y calidad.
+286,148,4,2024-12-24,Muy buena experiencia.
+489,190,5,2024-11-05,El servicio puede mejorar.
+306,139,5,2024-10-07,El ambiente fue agradable.
+451,109,2,2024-08-07,El ambiente fue agradable.
+66,177,1,2026-06-03,La comida estuvo deliciosa.
+402,12,3,2024-12-13,El servicio puede mejorar.
+448,64,4,2025-07-26,La atención fue rápida.
+93,38,4,2025-08-31,Excelente servicio y comida.
+293,130,4,2024-09-30,Muy buena experiencia.
+463,86,3,2024-08-11,El ambiente fue agradable.
+135,159,3,2024-10-09,Excelente servicio y comida.
+215,86,4,2024-10-27,La atención fue rápida.
+258,101,2,2026-04-27,El servicio puede mejorar.
+195,136,4,2024-11-15,Los platillos estuvieron bien preparados.
+42,125,2,2025-03-10,El servicio puede mejorar.
+167,42,5,2026-06-04,Regresaría nuevamente.
+27,8,4,2024-09-25,Excelente servicio y comida.
+308,162,5,2024-07-14,La comida estuvo deliciosa.
+471,19,2,2026-06-12,Excelente servicio y comida.
+24,80,4,2026-05-06,El ambiente fue agradable.
+167,114,3,2026-05-08,Regresaría nuevamente.
+436,140,2,2024-07-12,La atención fue rápida.
+361,196,2,2025-04-06,La experiencia fue aceptable.
+415,142,5,2026-01-08,Buena relación entre precio y calidad.
+165,193,1,2025-09-24,El ambiente fue agradable.
+283,43,2,2025-11-20,La comida estuvo deliciosa.
+208,74,5,2024-10-06,Excelente servicio y comida.
+207,30,1,2025-11-07,El ambiente fue agradable.
+56,193,1,2025-02-26,El ambiente fue agradable.
+143,199,1,2026-02-24,La atención fue rápida.
+238,177,3,2025-12-03,El ambiente fue agradable.
+183,185,1,2024-07-01,Buena relación entre precio y calidad.
+427,166,5,2024-09-27,La experiencia fue aceptable.
+249,54,4,2026-02-03,La experiencia fue aceptable.
+500,184,4,2026-03-25,Buena relación entre precio y calidad.
+404,190,2,2024-09-19,El servicio puede mejorar.
+79,16,5,2025-03-24,Los platillos estuvieron bien preparados.
+92,22,3,2024-06-28,Excelente servicio y comida.
+212,145,4,2025-08-06,El ambiente fue agradable.
+207,87,1,2024-09-26,Los platillos estuvieron bien preparados.
+256,185,2,2025-05-26,Los platillos estuvieron bien preparados.
+383,41,5,2026-02-07,El servicio puede mejorar.
+397,83,5,2025-09-24,Los platillos estuvieron bien preparados.
+185,186,5,2025-08-24,La experiencia fue aceptable.
+16,119,5,2025-12-08,La comida estuvo deliciosa.
+68,44,1,2025-08-07,Muy buena experiencia.
+163,72,4,2024-08-24,La atención fue rápida.
+100,2,3,2026-01-16,El servicio puede mejorar.
+186,5,4,2026-05-30,La experiencia fue aceptable.
+416,10,5,2024-10-04,Muy buena experiencia.
+67,129,5,2025-10-16,La comida estuvo deliciosa.
+2,23,2,2024-09-28,Muy buena experiencia.
+76,117,4,2026-02-03,La experiencia fue aceptable.
+324,107,5,2025-09-01,La atención fue rápida.
+5,180,4,2025-11-19,El servicio puede mejorar.
+184,69,2,2025-01-20,El servicio puede mejorar.
+221,52,1,2025-10-14,La comida estuvo deliciosa.
+256,76,1,2024-07-07,La atención fue rápida.
+156,167,1,2024-12-20,Regresaría nuevamente.
+437,140,3,2024-07-24,La experiencia fue aceptable.
+256,112,3,2026-04-06,La comida estuvo deliciosa.
+10,103,2,2025-03-04,Regresaría nuevamente.
+149,117,5,2026-03-22,Los platillos estuvieron bien preparados.
+393,8,3,2024-12-10,Excelente servicio y comida.
+434,157,3,2025-02-22,Los platillos estuvieron bien preparados.
+163,67,1,2024-12-23,La atención fue rápida.
+249,73,4,2024-08-15,Buena relación entre precio y calidad.
+50,83,4,2026-02-01,La atención fue rápida.
+158,8,5,2025-11-16,La atención fue rápida.
+11,143,3,2025-04-05,Regresaría nuevamente.
+216,167,3,2026-05-07,Excelente servicio y comida.
+25,66,1,2024-12-24,El servicio puede mejorar.
+88,161,4,2026-02-26,La experiencia fue aceptable.
+48,80,5,2025-10-03,Buena relación entre precio y calidad.
+101,10,1,2025-08-04,Buena relación entre precio y calidad.
+243,138,4,2025-11-26,La comida estuvo deliciosa.
+333,76,1,2024-10-29,Regresaría nuevamente.
+25,34,3,2024-08-13,El servicio puede mejorar.
+363,80,3,2024-10-15,Muy buena experiencia.
+103,155,2,2026-05-13,Buena relación entre precio y calidad.
+93,163,4,2025-09-28,Buena relación entre precio y calidad.
+385,53,1,2024-08-09,El servicio puede mejorar.
+281,121,2,2026-02-03,Regresaría nuevamente.
+10,190,5,2025-03-23,Regresaría nuevamente.
+139,29,5,2024-11-11,Los platillos estuvieron bien preparados.
+457,65,5,2024-10-05,Muy buena experiencia.
+269,163,4,2024-07-22,La experiencia fue aceptable.
+272,171,5,2025-08-07,El ambiente fue agradable.
+72,84,4,2024-10-03,El servicio puede mejorar.
+241,184,5,2025-06-04,Regresaría nuevamente.
+24,161,3,2024-07-26,Muy buena experiencia.
+236,41,5,2025-09-08,El ambiente fue agradable.
+179,22,3,2025-11-28,Regresaría nuevamente.
+233,186,2,2026-04-30,Buena relación entre precio y calidad.
+366,57,4,2024-11-07,El ambiente fue agradable.
+286,184,1,2026-02-01,El ambiente fue agradable.
+219,13,2,2026-06-14,El ambiente fue agradable.
+262,59,3,2024-06-29,Muy buena experiencia.
+414,161,3,2026-01-26,Buena relación entre precio y calidad.
+295,187,3,2026-04-17,La comida estuvo deliciosa.
+296,175,1,2024-08-18,Regresaría nuevamente.
+300,182,1,2025-02-24,Regresaría nuevamente.
+251,197,2,2026-06-09,El servicio puede mejorar.
+416,192,3,2025-08-18,La comida estuvo deliciosa.
+288,83,1,2025-02-15,El servicio puede mejorar.
+343,139,4,2025-05-30,Excelente servicio y comida.
+26,71,5,2024-12-04,Los platillos estuvieron bien preparados.
+59,140,2,2025-10-29,El servicio puede mejorar.
+456,119,4,2026-05-20,Los platillos estuvieron bien preparados.
+327,175,5,2025-08-26,Muy buena experiencia.
+384,184,5,2024-11-07,Regresaría nuevamente.
+2,99,1,2026-06-14,El ambiente fue agradable.
+271,174,2,2025-04-23,La experiencia fue aceptable.
+448,177,4,2024-09-17,La atención fue rápida.
+91,48,4,2024-08-27,Regresaría nuevamente.
+290,11,4,2025-02-18,Excelente servicio y comida.
+327,25,5,2024-10-12,La experiencia fue aceptable.
+47,71,2,2025-12-31,Buena relación entre precio y calidad.
+308,149,1,2024-08-17,Los platillos estuvieron bien preparados.
+283,175,1,2024-07-31,Regresaría nuevamente.
+1,15,4,2024-11-01,La comida estuvo deliciosa.
+293,151,3,2025-07-04,El ambiente fue agradable.
+359,159,5,2025-06-05,Excelente servicio y comida.
+182,151,1,2026-04-08,La experiencia fue aceptable.
+53,181,2,2024-08-09,El ambiente fue agradable.
+2,175,2,2025-01-13,Excelente servicio y comida.
+489,199,5,2025-09-13,Muy buena experiencia.
+72,163,1,2025-08-29,Regresaría nuevamente.
+55,102,3,2025-09-24,Regresaría nuevamente.
+261,147,5,2025-06-19,La atención fue rápida.
+221,86,3,2026-01-07,Buena relación entre precio y calidad.
+2,180,3,2025-05-07,La experiencia fue aceptable.
+10,146,3,2026-05-02,La atención fue rápida.
+234,190,2,2026-01-08,Excelente servicio y comida.
+362,3,1,2025-05-29,El ambiente fue agradable.
+223,105,3,2024-09-25,La comida estuvo deliciosa.
+470,14,1,2025-11-26,Buena relación entre precio y calidad.
+348,185,5,2024-11-03,Muy buena experiencia.
+5,132,4,2026-04-18,Regresaría nuevamente.
+87,26,5,2024-12-20,La atención fue rápida.
+462,46,5,2025-04-30,La atención fue rápida.
+68,125,1,2026-05-23,La comida estuvo deliciosa.
+190,52,2,2026-05-26,El servicio puede mejorar.
+464,63,4,2025-01-12,La comida estuvo deliciosa.
+98,70,3,2026-01-20,La comida estuvo deliciosa.
+459,111,1,2025-03-12,La comida estuvo deliciosa.
+402,82,5,2026-03-02,El servicio puede mejorar.
+54,137,2,2025-03-21,La experiencia fue aceptable.
+14,144,2,2026-05-06,Muy buena experiencia.
+112,61,3,2025-11-10,Los platillos estuvieron bien preparados.
+350,48,3,2026-01-16,El ambiente fue agradable.
+399,164,2,2025-06-20,Regresaría nuevamente.
+136,17,1,2026-05-27,El servicio puede mejorar.
+99,74,4,2026-04-26,El ambiente fue agradable.
+264,50,1,2024-11-14,El ambiente fue agradable.
+87,121,2,2025-07-04,Los platillos estuvieron bien preparados.
+120,160,5,2025-02-08,Regresaría nuevamente.
+247,32,4,2025-10-19,La atención fue rápida.
+484,151,3,2025-05-28,La experiencia fue aceptable.
+440,184,4,2025-04-02,Muy buena experiencia.
+259,15,3,2025-02-28,Los platillos estuvieron bien preparados.
+122,139,5,2026-06-09,Excelente servicio y comida.
+60,78,2,2025-02-24,Muy buena experiencia.
+266,7,3,2024-09-26,El ambiente fue agradable.
+245,76,5,2024-07-28,La comida estuvo deliciosa.
+432,176,3,2026-03-11,La comida estuvo deliciosa.
+76,17,3,2025-08-21,Regresaría nuevamente.
+445,30,1,2025-08-20,La comida estuvo deliciosa.
+3,124,4,2025-05-18,El servicio puede mejorar.
+359,165,2,2025-11-02,Regresaría nuevamente.
+311,195,1,2024-12-23,La comida estuvo deliciosa.
+26,35,4,2026-02-20,Muy buena experiencia.
+216,111,3,2025-10-13,El servicio puede mejorar.
+393,145,1,2025-01-13,La experiencia fue aceptable.
+428,136,4,2024-11-07,Regresaría nuevamente.
+152,42,1,2025-09-17,Regresaría nuevamente.
+104,64,2,2025-10-22,Buena relación entre precio y calidad.
+109,158,2,2024-07-13,Los platillos estuvieron bien preparados.
+335,11,1,2025-10-12,Regresaría nuevamente.
+174,129,4,2026-04-11,La comida estuvo deliciosa.
+305,12,4,2025-03-30,Los platillos estuvieron bien preparados.
+41,135,4,2025-06-20,Excelente servicio y comida.
+185,44,4,2025-07-30,Buena relación entre precio y calidad.
+259,133,1,2024-10-18,La comida estuvo deliciosa.
+402,151,1,2026-04-05,Los platillos estuvieron bien preparados.
+177,148,2,2025-07-25,La comida estuvo deliciosa.
+382,192,1,2024-07-29,Regresaría nuevamente.
+24,16,5,2025-03-15,La comida estuvo deliciosa.
+422,157,1,2026-03-16,La experiencia fue aceptable.
+33,83,4,2025-01-21,La comida estuvo deliciosa.
+218,157,3,2026-06-14,El servicio puede mejorar.
+452,170,1,2024-08-31,Los platillos estuvieron bien preparados.
+350,169,2,2026-02-13,Excelente servicio y comida.
+301,42,2,2025-11-13,Buena relación entre precio y calidad.
+206,13,3,2026-02-05,El ambiente fue agradable.
+328,84,5,2025-11-25,La atención fue rápida.
+336,179,3,2025-03-13,La comida estuvo deliciosa.
+160,193,4,2025-10-10,El ambiente fue agradable.
+317,96,1,2026-01-13,La atención fue rápida.
+237,13,3,2025-05-21,La comida estuvo deliciosa.
+329,91,3,2025-09-04,Muy buena experiencia.
+331,50,2,2026-05-11,Excelente servicio y comida.
+174,174,3,2025-11-08,El ambiente fue agradable.
+285,195,3,2024-07-29,Muy buena experiencia.
+347,59,4,2026-01-10,La atención fue rápida.
+340,105,4,2026-02-08,El servicio puede mejorar.
+388,154,1,2025-02-14,La comida estuvo deliciosa.
+45,16,4,2024-09-01,El ambiente fue agradable.
+128,82,3,2025-12-10,Muy buena experiencia.
+445,119,1,2026-06-04,El servicio puede mejorar.
+28,90,4,2025-06-25,Excelente servicio y comida.
+460,19,3,2025-09-16,Muy buena experiencia.
+112,130,5,2024-07-24,La comida estuvo deliciosa.
+165,74,3,2026-02-28,El servicio puede mejorar.
+96,6,4,2025-02-12,Los platillos estuvieron bien preparados.
+424,62,2,2025-10-27,La experiencia fue aceptable.
+71,101,3,2025-08-22,Los platillos estuvieron bien preparados.
+182,165,3,2026-06-04,Buena relación entre precio y calidad.
+497,196,5,2026-02-23,El servicio puede mejorar.
+80,78,4,2024-09-05,Regresaría nuevamente.
+474,156,5,2025-10-09,Los platillos estuvieron bien preparados.
+137,101,5,2025-08-14,Regresaría nuevamente.
+477,184,1,2024-10-09,Muy buena experiencia.
+234,80,3,2025-07-17,La comida estuvo deliciosa.
+476,63,3,2025-12-01,Muy buena experiencia.
+308,78,4,2024-12-02,Regresaría nuevamente.
+444,59,5,2024-07-11,Los platillos estuvieron bien preparados.
+485,61,3,2024-10-05,Buena relación entre precio y calidad.
+217,8,2,2025-09-23,La experiencia fue aceptable.
+87,82,4,2025-04-15,Muy buena experiencia.
+175,8,1,2025-05-13,El ambiente fue agradable.
+82,168,4,2025-05-15,Excelente servicio y comida.
+214,180,2,2025-01-26,Regresaría nuevamente.
+349,27,3,2025-05-17,Muy buena experiencia.
+55,43,4,2024-06-29,El ambiente fue agradable.
+387,157,4,2024-08-10,Buena relación entre precio y calidad.
+326,48,3,2025-11-16,Regresaría nuevamente.
+190,145,2,2026-01-05,La experiencia fue aceptable.
+481,24,1,2026-02-09,La comida estuvo deliciosa.
+291,185,1,2026-01-15,Muy buena experiencia.
+328,60,1,2026-02-27,Muy buena experiencia.
+253,24,3,2024-07-23,La atención fue rápida.
+293,78,1,2026-01-24,La comida estuvo deliciosa.
+474,146,1,2026-02-28,La comida estuvo deliciosa.
+390,68,5,2025-05-26,El ambiente fue agradable.
+397,71,4,2025-07-28,La experiencia fue aceptable.
+80,163,2,2025-05-11,El ambiente fue agradable.
+469,128,4,2024-11-18,El servicio puede mejorar.
+422,40,1,2024-12-21,Buena relación entre precio y calidad.
+459,49,4,2025-10-29,Muy buena experiencia.
+341,140,3,2026-05-13,La comida estuvo deliciosa.
+231,138,4,2025-11-11,Buena relación entre precio y calidad.
+420,94,1,2025-05-12,La comida estuvo deliciosa.
+398,128,2,2025-01-06,El servicio puede mejorar.
+492,93,3,2026-04-30,La experiencia fue aceptable.
+256,23,3,2025-08-30,La atención fue rápida.
+17,63,3,2025-02-17,El servicio puede mejorar.
+429,143,1,2024-07-20,El ambiente fue agradable.
+332,125,4,2025-12-01,Muy buena experiencia.
+169,7,3,2025-10-21,Muy buena experiencia.
+197,121,3,2025-07-04,Regresaría nuevamente.
+418,159,4,2025-01-06,Regresaría nuevamente.
+414,133,2,2024-07-17,La experiencia fue aceptable.
+92,34,5,2025-10-27,Los platillos estuvieron bien preparados.
+154,59,3,2026-02-26,La comida estuvo deliciosa.
+293,66,3,2026-02-20,El ambiente fue agradable.
+328,193,5,2024-07-22,La atención fue rápida.
+264,133,2,2025-07-15,El ambiente fue agradable.
+465,79,5,2025-06-06,Buena relación entre precio y calidad.
+436,25,2,2025-07-19,El ambiente fue agradable.
+179,73,5,2024-09-10,La comida estuvo deliciosa.
+131,95,3,2024-12-29,Buena relación entre precio y calidad.
+362,1,3,2025-04-02,La experiencia fue aceptable.
+91,24,4,2025-08-20,El ambiente fue agradable.
+319,151,1,2024-07-19,El ambiente fue agradable.
+354,153,4,2025-12-06,El servicio puede mejorar.
+187,147,3,2025-09-14,Excelente servicio y comida.
+256,53,1,2025-08-18,El servicio puede mejorar.
+37,105,1,2024-08-10,La atención fue rápida.
+109,141,4,2024-11-03,El ambiente fue agradable.
+53,125,3,2025-08-22,La experiencia fue aceptable.
+31,71,5,2024-07-16,La atención fue rápida.
+61,90,5,2024-11-23,La comida estuvo deliciosa.
+144,88,5,2025-03-27,Buena relación entre precio y calidad.
+434,116,4,2025-10-03,Los platillos estuvieron bien preparados.
+452,3,3,2025-06-04,Buena relación entre precio y calidad.
+224,105,2,2024-10-02,Muy buena experiencia.
+319,45,5,2025-11-16,El ambiente fue agradable.
+307,119,5,2026-05-30,El servicio puede mejorar.
+44,20,1,2024-10-25,Muy buena experiencia.
+110,118,1,2024-11-21,Excelente servicio y comida.
+178,177,1,2024-07-12,El servicio puede mejorar.
+221,12,3,2025-12-23,Los platillos estuvieron bien preparados.
+372,8,5,2024-06-25,La comida estuvo deliciosa.
+453,186,2,2025-03-18,Muy buena experiencia.
+208,81,3,2024-10-17,El servicio puede mejorar.
+67,126,5,2026-03-02,La atención fue rápida.
+466,6,4,2025-10-27,Excelente servicio y comida.
+369,94,1,2026-01-06,El servicio puede mejorar.
+498,21,2,2025-10-02,Excelente servicio y comida.
+39,13,5,2026-02-26,Regresaría nuevamente.
+454,27,4,2024-09-25,La experiencia fue aceptable.
+107,39,5,2024-12-02,Muy buena experiencia.
+78,81,3,2026-04-05,Excelente servicio y comida.
+153,19,3,2025-09-24,La experiencia fue aceptable.
+352,122,2,2026-04-25,La experiencia fue aceptable.
+495,46,2,2025-08-16,Los platillos estuvieron bien preparados.
+424,140,1,2025-02-25,Muy buena experiencia.
+386,88,1,2024-07-07,La atención fue rápida.
+384,97,4,2024-09-17,El servicio puede mejorar.
+131,88,4,2025-08-11,La experiencia fue aceptable.
+34,86,4,2025-10-09,La experiencia fue aceptable.
+273,107,2,2025-12-27,El servicio puede mejorar.
+396,27,1,2024-09-04,El ambiente fue agradable.
+159,35,1,2025-02-04,Regresaría nuevamente.
+412,114,4,2024-07-09,Buena relación entre precio y calidad.
+419,164,1,2025-12-13,Regresaría nuevamente.
+405,93,5,2025-09-03,Los platillos estuvieron bien preparados.
+386,192,4,2024-08-19,Muy buena experiencia.
+291,126,5,2026-03-07,Regresaría nuevamente.
+393,128,1,2025-11-15,Los platillos estuvieron bien preparados.
+173,158,3,2024-07-23,La experiencia fue aceptable.
+148,63,3,2025-09-21,La comida estuvo deliciosa.
+97,56,1,2025-07-10,Buena relación entre precio y calidad.
+382,178,4,2025-04-06,El servicio puede mejorar.
+196,185,2,2025-08-29,La comida estuvo deliciosa.
+306,78,1,2025-01-01,El servicio puede mejorar.
+195,193,3,2026-06-18,El ambiente fue agradable.
+157,23,3,2025-03-15,El ambiente fue agradable.
+387,156,5,2025-10-23,Buena relación entre precio y calidad.
+138,54,1,2026-03-22,La comida estuvo deliciosa.
+252,159,4,2025-06-10,El ambiente fue agradable.
+484,45,4,2024-09-16,Excelente servicio y comida.
+248,161,2,2025-05-17,Muy buena experiencia.
+139,167,5,2025-07-15,El servicio puede mejorar.
+486,168,1,2026-01-17,Excelente servicio y comida.
+260,170,3,2025-07-13,El servicio puede mejorar.
+273,174,5,2026-03-19,Los platillos estuvieron bien preparados.
+252,158,3,2026-05-24,El servicio puede mejorar.
+388,185,1,2025-10-01,La atención fue rápida.
+433,152,3,2026-03-23,Los platillos estuvieron bien preparados.
+215,148,2,2025-03-09,El servicio puede mejorar.
+119,71,1,2025-04-12,El servicio puede mejorar.
+252,14,5,2025-05-15,El ambiente fue agradable.
+340,85,1,2025-01-04,El servicio puede mejorar.
+119,191,2,2025-12-02,Regresaría nuevamente.
+44,170,4,2024-08-06,Buena relación entre precio y calidad.
+428,185,4,2025-05-16,Los platillos estuvieron bien preparados.
+74,68,5,2024-07-13,La experiencia fue aceptable.
+124,82,2,2025-10-31,Excelente servicio y comida.
+223,156,3,2025-03-29,La atención fue rápida.
+401,95,5,2025-07-01,Buena relación entre precio y calidad.
+58,81,3,2024-12-20,Regresaría nuevamente.
+122,12,5,2024-07-18,Regresaría nuevamente.
+28,137,4,2025-11-27,El ambiente fue agradable.
+218,121,5,2024-09-10,La experiencia fue aceptable.
+412,196,3,2024-07-19,La atención fue rápida.
+159,75,1,2025-08-21,Los platillos estuvieron bien preparados.
+100,122,4,2025-08-16,La atención fue rápida.
+498,39,2,2026-05-24,El ambiente fue agradable.
+50,156,5,2024-08-25,Muy buena experiencia.
+357,118,2,2025-06-04,Los platillos estuvieron bien preparados.
+186,116,1,2024-12-28,Regresaría nuevamente.
+135,58,4,2024-10-05,Buena relación entre precio y calidad.
+179,142,4,2026-03-31,La atención fue rápida.
+135,74,2,2026-01-11,La comida estuvo deliciosa.
+50,122,5,2026-02-15,Muy buena experiencia.
+53,103,3,2025-08-06,La comida estuvo deliciosa.
+252,99,5,2024-07-03,Excelente servicio y comida.
+77,130,4,2025-02-04,El ambiente fue agradable.
+449,16,4,2025-09-15,La comida estuvo deliciosa.
+28,80,2,2026-05-04,Excelente servicio y comida.
+111,56,4,2025-10-06,Muy buena experiencia.
+210,65,1,2025-09-22,Excelente servicio y comida.
+175,177,2,2024-11-13,La atención fue rápida.
+330,31,4,2024-11-25,Regresaría nuevamente.
+413,112,3,2025-12-10,La atención fue rápida.
+312,27,1,2024-10-22,La experiencia fue aceptable.
+298,152,5,2026-04-01,La atención fue rápida.
+406,196,5,2025-09-01,Muy buena experiencia.
+351,15,1,2025-12-10,La experiencia fue aceptable.
+134,41,1,2024-07-21,Buena relación entre precio y calidad.
+360,16,3,2025-05-05,La atención fue rápida.
+34,164,2,2025-01-03,La experiencia fue aceptable.
+404,39,4,2026-01-04,La experiencia fue aceptable.
+301,192,1,2025-03-29,Los platillos estuvieron bien preparados.
+323,30,3,2026-03-17,El servicio puede mejorar.
+96,113,2,2025-08-23,La comida estuvo deliciosa.
+436,99,2,2025-11-22,El ambiente fue agradable.
+361,143,1,2024-08-07,Muy buena experiencia.
+260,27,4,2026-01-18,Buena relación entre precio y calidad.
+96,178,1,2024-12-12,La comida estuvo deliciosa.
+497,140,5,2024-07-24,Regresaría nuevamente.
+211,62,1,2025-09-05,Los platillos estuvieron bien preparados.
+55,62,1,2025-11-04,Regresaría nuevamente.
+164,123,5,2025-07-08,La experiencia fue aceptable.
+300,181,3,2025-03-24,Excelente servicio y comida.
+187,175,1,2025-06-11,La comida estuvo deliciosa.
+39,21,1,2026-04-23,El ambiente fue agradable.
+57,161,5,2025-01-27,El servicio puede mejorar.
+374,148,3,2025-05-09,Muy buena experiencia.
+19,118,5,2025-05-27,La atención fue rápida.
+70,35,3,2025-06-01,Excelente servicio y comida.
+85,129,2,2025-06-03,El ambiente fue agradable.
+8,70,4,2024-10-16,Los platillos estuvieron bien preparados.
+449,174,2,2026-03-23,Muy buena experiencia.
+408,180,4,2025-05-09,El servicio puede mejorar.
+280,84,3,2024-10-27,Buena relación entre precio y calidad.
+265,185,5,2025-03-27,El ambiente fue agradable.
+153,24,1,2025-01-09,Excelente servicio y comida.
+480,190,4,2026-01-25,La atención fue rápida.
+113,156,1,2025-06-05,Buena relación entre precio y calidad.
+196,26,3,2024-10-09,Los platillos estuvieron bien preparados.
+75,16,5,2025-03-11,Muy buena experiencia.
+262,33,4,2025-05-13,Regresaría nuevamente.
+383,10,3,2025-03-04,La comida estuvo deliciosa.
+404,98,3,2025-10-25,Excelente servicio y comida.
+209,62,1,2026-06-12,Regresaría nuevamente.
+242,173,4,2024-08-18,El ambiente fue agradable.
+195,3,1,2026-05-03,Buena relación entre precio y calidad.
+494,33,5,2025-05-28,El servicio puede mejorar.
+241,71,1,2026-03-09,La experiencia fue aceptable.
+53,106,3,2025-07-21,Los platillos estuvieron bien preparados.
+255,151,5,2025-01-28,Muy buena experiencia.
+66,92,3,2024-07-25,Buena relación entre precio y calidad.
+436,71,5,2024-12-17,El servicio puede mejorar.
+413,157,4,2025-02-28,Los platillos estuvieron bien preparados.
+484,96,2,2025-07-02,Los platillos estuvieron bien preparados.
+112,163,1,2025-07-20,Muy buena experiencia.
+185,173,5,2026-03-19,Muy buena experiencia.
+444,172,3,2026-01-06,La atención fue rápida.
+405,58,5,2025-02-02,Buena relación entre precio y calidad.
+242,13,2,2024-12-21,Regresaría nuevamente.
+401,122,4,2025-11-07,Buena relación entre precio y calidad.
+324,53,2,2026-05-17,El servicio puede mejorar.
+264,1,2,2024-12-12,Los platillos estuvieron bien preparados.
+418,153,2,2024-10-15,Los platillos estuvieron bien preparados.
+402,24,4,2025-03-02,La comida estuvo deliciosa.
+464,2,1,2025-06-20,La atención fue rápida.
+262,17,2,2025-08-10,La atención fue rápida.
+455,193,1,2025-11-16,La comida estuvo deliciosa.
+126,75,5,2025-08-01,Buena relación entre precio y calidad.
+89,78,1,2026-02-26,La comida estuvo deliciosa.
+115,36,2,2026-04-25,El servicio puede mejorar.
+119,129,1,2024-12-09,El ambiente fue agradable.
+471,115,4,2024-08-27,Los platillos estuvieron bien preparados.
+177,97,4,2024-12-27,Regresaría nuevamente.
+23,70,4,2025-02-16,La experiencia fue aceptable.
+219,171,1,2025-05-08,El servicio puede mejorar.
+435,21,3,2026-03-27,La atención fue rápida.
+448,61,3,2024-08-18,La atención fue rápida.
+138,92,4,2025-07-24,La comida estuvo deliciosa.
+364,59,4,2024-12-11,Excelente servicio y comida.
+150,171,4,2026-02-01,La atención fue rápida.
+358,200,5,2025-02-26,Buena relación entre precio y calidad.
+101,54,4,2025-03-01,La experiencia fue aceptable.
+150,98,1,2025-10-05,Excelente servicio y comida.
+322,108,1,2025-02-12,La comida estuvo deliciosa.
+457,113,1,2025-10-21,Buena relación entre precio y calidad.
+112,43,1,2024-11-12,La experiencia fue aceptable.
+120,92,4,2024-06-23,El servicio puede mejorar.
+376,32,3,2024-09-06,Buena relación entre precio y calidad.
+4,165,5,2025-04-11,Regresaría nuevamente.
+127,128,2,2026-06-06,Los platillos estuvieron bien preparados.
+33,164,1,2025-03-03,Regresaría nuevamente.
+482,68,3,2026-03-25,El ambiente fue agradable.
+335,51,1,2026-02-01,La comida estuvo deliciosa.
+159,188,3,2024-07-14,La comida estuvo deliciosa.
+349,1,4,2025-11-21,La atención fue rápida.
+113,75,3,2024-08-10,La experiencia fue aceptable.
+420,132,5,2025-09-25,La atención fue rápida.
+156,160,5,2025-02-01,El ambiente fue agradable.
+145,184,3,2026-02-12,Excelente servicio y comida.
+143,159,3,2025-10-21,Los platillos estuvieron bien preparados.
+371,125,5,2025-11-02,Muy buena experiencia.
+411,195,3,2024-11-24,La experiencia fue aceptable.
+348,126,1,2026-03-01,La atención fue rápida.
+452,76,1,2025-01-27,La atención fue rápida.
+281,164,4,2026-02-19,Muy buena experiencia.
+230,199,4,2026-05-14,El servicio puede mejorar.
+491,100,1,2025-04-25,La comida estuvo deliciosa.
+49,64,2,2025-12-22,Excelente servicio y comida.
+228,146,3,2025-07-08,Excelente servicio y comida.
+50,135,5,2026-06-05,La atención fue rápida.
+204,23,2,2025-11-28,Regresaría nuevamente.
+398,40,5,2025-06-06,La experiencia fue aceptable.
+71,121,5,2025-11-07,Regresaría nuevamente.
+97,185,4,2025-12-26,Regresaría nuevamente.
+464,140,4,2025-05-30,Excelente servicio y comida.
+191,142,5,2026-06-07,Los platillos estuvieron bien preparados.
+275,187,5,2024-06-26,Los platillos estuvieron bien preparados.
+370,64,1,2024-07-09,Buena relación entre precio y calidad.
+104,134,4,2026-02-17,Muy buena experiencia.
+85,184,2,2025-10-02,Los platillos estuvieron bien preparados.
+444,85,2,2025-12-02,Los platillos estuvieron bien preparados.
+65,185,3,2025-06-28,El servicio puede mejorar.
+336,146,1,2025-01-29,Los platillos estuvieron bien preparados.
+86,2,2,2025-04-29,El servicio puede mejorar.
+432,140,2,2025-12-11,La experiencia fue aceptable.
+406,140,1,2025-10-10,El ambiente fue agradable.
+304,141,3,2025-12-26,Regresaría nuevamente.
+162,167,2,2025-01-26,La atención fue rápida.
+115,170,5,2024-08-15,La comida estuvo deliciosa.
+88,76,5,2025-10-23,Buena relación entre precio y calidad.
+82,9,1,2025-07-19,Buena relación entre precio y calidad.
+381,186,1,2026-02-27,Muy buena experiencia.
+76,46,1,2024-08-06,Los platillos estuvieron bien preparados.
+226,45,2,2026-01-28,La comida estuvo deliciosa.
+467,39,5,2024-09-10,La experiencia fue aceptable.
+241,142,4,2026-01-27,Muy buena experiencia.
+207,142,1,2026-04-08,Regresaría nuevamente.
+334,129,4,2024-11-08,La atención fue rápida.
+131,177,5,2025-12-16,Los platillos estuvieron bien preparados.
+294,135,4,2026-03-01,Regresaría nuevamente.
+298,186,3,2025-07-27,La atención fue rápida.
+83,194,2,2026-02-17,El servicio puede mejorar.
+390,143,3,2026-04-25,El ambiente fue agradable.
+282,5,2,2025-04-01,La experiencia fue aceptable.
+488,159,2,2026-06-14,El ambiente fue agradable.
+211,108,1,2025-04-18,La atención fue rápida.
+21,95,3,2025-08-07,Buena relación entre precio y calidad.
+9,180,3,2025-01-19,Buena relación entre precio y calidad.
+427,117,2,2025-08-29,Los platillos estuvieron bien preparados.
+303,51,2,2024-09-07,La atención fue rápida.
+72,7,4,2025-05-29,Excelente servicio y comida.
+490,155,2,2025-01-24,Los platillos estuvieron bien preparados.
+263,114,5,2024-07-22,La atención fue rápida.
+133,164,1,2026-03-05,El servicio puede mejorar.
+406,51,3,2026-05-19,El ambiente fue agradable.
+114,67,5,2025-05-15,El ambiente fue agradable.
+207,36,1,2024-07-25,El ambiente fue agradable.
+141,90,5,2026-04-12,Excelente servicio y comida.
+194,82,3,2025-06-26,Muy buena experiencia.
+45,97,2,2025-06-09,El ambiente fue agradable.
+268,72,4,2026-01-15,La atención fue rápida.
+336,14,5,2024-10-12,Excelente servicio y comida.
+128,119,5,2025-01-19,El servicio puede mejorar.
+62,57,5,2025-08-11,Muy buena experiencia.
+189,55,1,2026-01-17,El ambiente fue agradable.
+397,84,5,2026-03-15,Excelente servicio y comida.
+274,157,4,2025-06-28,Excelente servicio y comida.
+139,163,1,2025-08-15,La comida estuvo deliciosa.
+309,61,5,2025-05-10,La experiencia fue aceptable.
+404,113,4,2026-05-15,El ambiente fue agradable.
+123,24,5,2024-07-26,El servicio puede mejorar.
+492,135,5,2025-08-28,El ambiente fue agradable.
+488,72,1,2025-01-29,El servicio puede mejorar.
+377,85,4,2025-11-17,Buena relación entre precio y calidad.
+51,1,1,2025-12-06,Regresaría nuevamente.
+132,110,2,2026-01-13,Buena relación entre precio y calidad.
+53,192,4,2024-07-13,Buena relación entre precio y calidad.
+254,140,2,2024-08-16,El servicio puede mejorar.
+150,5,3,2025-04-15,Excelente servicio y comida.
+101,104,3,2025-10-15,Excelente servicio y comida.
+389,14,4,2026-05-13,El ambiente fue agradable.
+26,140,3,2026-04-19,La experiencia fue aceptable.
+251,92,3,2025-11-26,La comida estuvo deliciosa.
+46,18,3,2024-07-06,Buena relación entre precio y calidad.
+3,7,5,2025-06-02,Buena relación entre precio y calidad.
+338,147,3,2025-11-02,Muy buena experiencia.
+229,62,5,2024-10-04,Los platillos estuvieron bien preparados.
+252,56,1,2026-05-10,Los platillos estuvieron bien preparados.
+154,67,5,2026-02-18,Muy buena experiencia.
+24,58,4,2024-12-03,Muy buena experiencia.
+19,199,3,2024-09-16,La experiencia fue aceptable.
+225,89,1,2025-10-13,La experiencia fue aceptable.
+57,30,2,2024-12-25,Buena relación entre precio y calidad.
+114,136,3,2024-07-15,La comida estuvo deliciosa.
+113,39,3,2024-12-22,El ambiente fue agradable.
+24,8,1,2025-09-21,La experiencia fue aceptable.
+221,158,2,2024-09-09,La experiencia fue aceptable.
+359,97,1,2026-06-14,El servicio puede mejorar.
+451,102,4,2026-01-09,Buena relación entre precio y calidad.
+350,70,1,2025-03-28,Los platillos estuvieron bien preparados.
+411,49,4,2025-05-24,El ambiente fue agradable.
+21,32,4,2026-04-26,La atención fue rápida.
+416,152,3,2025-11-02,El servicio puede mejorar.
+24,11,3,2026-02-08,La comida estuvo deliciosa.
+133,197,1,2025-03-20,Regresaría nuevamente.
+261,66,3,2025-10-31,Excelente servicio y comida.
+42,199,1,2024-06-29,Buena relación entre precio y calidad.
+36,134,3,2026-02-22,El ambiente fue agradable.
+487,45,2,2024-12-31,El ambiente fue agradable.
+310,144,2,2024-06-30,Buena relación entre precio y calidad.
+312,6,3,2025-01-20,Excelente servicio y comida.
+486,175,3,2024-12-06,La comida estuvo deliciosa.
+327,177,5,2025-01-28,La experiencia fue aceptable.
+298,22,2,2026-01-22,El ambiente fue agradable.
+19,122,3,2024-09-07,La atención fue rápida.
+102,91,3,2025-03-28,Los platillos estuvieron bien preparados.
+274,121,5,2024-06-27,El servicio puede mejorar.
+472,91,4,2025-11-27,Los platillos estuvieron bien preparados.
+225,116,3,2025-05-16,Excelente servicio y comida.
+22,73,4,2024-10-04,Excelente servicio y comida.
+454,139,1,2025-03-20,Excelente servicio y comida.
+283,122,1,2025-06-07,El servicio puede mejorar.
+489,106,4,2025-06-11,Los platillos estuvieron bien preparados.
+138,96,3,2025-05-23,La comida estuvo deliciosa.
+45,155,5,2024-12-22,El servicio puede mejorar.
+91,98,2,2026-03-07,Muy buena experiencia.
+60,29,3,2025-12-20,Muy buena experiencia.
+482,192,1,2026-01-24,Excelente servicio y comida.
+408,42,2,2025-01-04,Regresaría nuevamente.
+278,165,4,2025-03-12,La comida estuvo deliciosa.
+310,107,5,2024-09-13,La comida estuvo deliciosa.
+74,91,4,2026-01-05,El ambiente fue agradable.
+302,32,4,2024-12-09,El ambiente fue agradable.
+179,181,5,2025-06-17,Buena relación entre precio y calidad.
+467,52,5,2025-04-17,Regresaría nuevamente.
+38,144,4,2025-03-13,La atención fue rápida.
+281,152,4,2026-03-09,La experiencia fue aceptable.
+53,14,4,2025-11-11,Muy buena experiencia.
+255,8,3,2025-04-22,La experiencia fue aceptable.
+131,138,3,2025-10-27,Buena relación entre precio y calidad.
+190,12,2,2025-10-21,Regresaría nuevamente.
+127,147,4,2026-02-05,Los platillos estuvieron bien preparados.
+139,20,2,2025-08-25,El ambiente fue agradable.
+58,138,2,2025-08-14,El servicio puede mejorar.
+396,70,3,2024-09-07,La comida estuvo deliciosa.
+238,141,5,2025-08-01,Buena relación entre precio y calidad.
+44,12,4,2024-12-17,Regresaría nuevamente.
+211,197,2,2026-04-01,El servicio puede mejorar.
+207,141,3,2026-02-19,El ambiente fue agradable.
+312,154,4,2024-11-02,El servicio puede mejorar.
+258,92,5,2025-03-16,La atención fue rápida.
+306,130,3,2025-05-31,El servicio puede mejorar.
+430,200,4,2024-10-10,Muy buena experiencia.
+448,97,1,2025-11-08,La experiencia fue aceptable.
+329,126,1,2024-10-26,El servicio puede mejorar.
+210,51,2,2025-10-01,Excelente servicio y comida.
+173,181,5,2026-02-10,El servicio puede mejorar.
+459,169,2,2025-08-05,La atención fue rápida.
+321,112,4,2025-12-30,El servicio puede mejorar.
+263,21,5,2025-06-03,La atención fue rápida.
+417,196,5,2024-10-30,La experiencia fue aceptable.
+353,60,1,2026-05-18,La atención fue rápida.
+489,177,4,2026-02-28,El servicio puede mejorar.
+99,158,1,2024-08-16,Excelente servicio y comida.
+229,155,3,2024-10-13,El servicio puede mejorar.
+480,2,5,2025-07-27,La comida estuvo deliciosa.
+130,165,4,2025-10-31,Buena relación entre precio y calidad.
+379,101,5,2025-10-26,El servicio puede mejorar.
+248,16,2,2025-08-11,Muy buena experiencia.
+227,104,1,2026-01-09,Excelente servicio y comida.
+193,145,1,2025-04-23,El ambiente fue agradable.
+481,135,1,2026-03-14,Excelente servicio y comida.
+327,13,2,2026-03-17,La atención fue rápida.
+85,131,3,2025-05-20,Regresaría nuevamente.
+185,74,5,2024-12-20,La comida estuvo deliciosa.
+259,74,5,2024-12-18,La atención fue rápida.
+46,113,3,2025-02-21,El servicio puede mejorar.
+252,105,2,2025-02-05,La atención fue rápida.
+49,116,5,2025-05-18,Los platillos estuvieron bien preparados.
+469,142,1,2026-03-16,Excelente servicio y comida.
+95,146,3,2024-11-23,El ambiente fue agradable.
+48,195,2,2025-02-19,Excelente servicio y comida.
+178,135,3,2026-02-17,Buena relación entre precio y calidad.
+95,36,3,2024-11-10,La comida estuvo deliciosa.
+392,65,1,2026-05-26,Muy buena experiencia.
+83,35,1,2025-12-14,Los platillos estuvieron bien preparados.
+340,36,1,2024-09-30,Regresaría nuevamente.
+169,12,3,2026-01-06,Buena relación entre precio y calidad.
+116,57,5,2024-11-13,El servicio puede mejorar.
+232,122,3,2025-06-19,El servicio puede mejorar.
+308,44,1,2025-06-04,La atención fue rápida.
+453,29,4,2024-10-02,La experiencia fue aceptable.
+394,47,4,2026-04-30,Los platillos estuvieron bien preparados.
+266,189,1,2026-02-25,La experiencia fue aceptable.
+359,67,3,2026-02-10,La comida estuvo deliciosa.
+214,92,2,2026-02-05,Los platillos estuvieron bien preparados.
+90,31,3,2025-07-19,Muy buena experiencia.
+334,68,3,2026-04-19,El ambiente fue agradable.
+362,59,4,2024-11-23,La atención fue rápida.
+430,72,2,2026-06-13,El ambiente fue agradable.
+444,9,1,2025-01-13,Los platillos estuvieron bien preparados.
+315,134,5,2024-12-07,El servicio puede mejorar.
+136,174,1,2025-03-18,Excelente servicio y comida.
+176,154,2,2025-09-30,El servicio puede mejorar.
+124,195,3,2024-09-12,La experiencia fue aceptable.
+50,130,3,2025-01-19,La atención fue rápida.
+182,168,1,2024-12-12,Buena relación entre precio y calidad.
+19,33,2,2026-06-03,La atención fue rápida.
+481,26,1,2024-07-27,Los platillos estuvieron bien preparados.
+49,9,4,2026-04-27,El servicio puede mejorar.
+38,39,1,2025-06-18,La atención fue rápida.
+41,82,4,2025-05-02,Excelente servicio y comida.
+200,96,3,2026-01-06,Muy buena experiencia.
+202,84,5,2026-01-03,Excelente servicio y comida.
+479,43,1,2026-06-20,La experiencia fue aceptable.
+255,44,1,2025-01-18,La atención fue rápida.
+380,131,1,2025-07-28,La experiencia fue aceptable.
+328,87,1,2026-03-19,El ambiente fue agradable.
+433,176,3,2025-03-19,Los platillos estuvieron bien preparados.
+334,127,3,2026-06-22,El servicio puede mejorar.
+115,138,5,2024-09-21,El ambiente fue agradable.
+308,117,5,2025-03-05,El servicio puede mejorar.
+327,172,4,2025-05-12,La atención fue rápida.
+350,77,2,2026-03-09,La experiencia fue aceptable.
+168,42,4,2024-09-26,La atención fue rápida.
+269,26,3,2025-08-23,Muy buena experiencia.
+175,57,4,2026-03-04,Regresaría nuevamente.
+127,156,3,2024-08-25,Muy buena experiencia.
+246,83,3,2024-08-30,La comida estuvo deliciosa.
+456,39,2,2025-02-05,Excelente servicio y comida.
+104,86,3,2025-04-20,El ambiente fue agradable.
+315,164,1,2026-05-06,La experiencia fue aceptable.
+180,197,2,2024-07-25,Excelente servicio y comida.
+430,18,1,2024-07-29,Muy buena experiencia.
+112,97,3,2025-07-06,Buena relación entre precio y calidad.
+39,71,2,2024-11-21,Los platillos estuvieron bien preparados.
+346,179,3,2024-07-12,Excelente servicio y comida.
+283,89,1,2026-05-10,Regresaría nuevamente.
+155,161,2,2025-11-26,La experiencia fue aceptable.
+88,9,4,2025-07-17,Buena relación entre precio y calidad.
+387,140,4,2025-10-04,La experiencia fue aceptable.
+37,50,5,2024-09-04,La experiencia fue aceptable.
+94,20,5,2024-07-20,El servicio puede mejorar.
+476,199,2,2025-08-19,Buena relación entre precio y calidad.
+300,101,5,2024-09-09,La atención fue rápida.
+393,72,5,2026-02-02,Regresaría nuevamente.
+43,148,1,2024-12-24,Excelente servicio y comida.
+188,179,2,2026-01-05,Los platillos estuvieron bien preparados.
+76,189,2,2025-03-18,Los platillos estuvieron bien preparados.
+344,145,4,2026-06-10,Regresaría nuevamente.
+78,161,3,2026-05-28,La experiencia fue aceptable.
+276,165,1,2026-01-09,La experiencia fue aceptable.
+268,145,1,2025-11-23,Buena relación entre precio y calidad.
+28,118,5,2025-08-14,Excelente servicio y comida.
+78,188,3,2024-08-27,Buena relación entre precio y calidad.
+478,53,3,2026-03-25,Excelente servicio y comida.
+168,39,5,2025-05-25,Buena relación entre precio y calidad.
+464,86,4,2024-07-24,El servicio puede mejorar.
+277,16,2,2024-11-28,Buena relación entre precio y calidad.
+83,27,3,2024-07-30,El ambiente fue agradable.
+4,198,2,2025-09-30,Excelente servicio y comida.
+106,113,5,2026-03-05,Buena relación entre precio y calidad.
+121,30,5,2026-05-19,La comida estuvo deliciosa.
+27,32,4,2025-10-16,Regresaría nuevamente.
+447,98,2,2026-04-28,La atención fue rápida.
+60,94,5,2025-07-05,La experiencia fue aceptable.
+149,175,2,2025-10-18,Buena relación entre precio y calidad.
+394,36,1,2025-09-02,La comida estuvo deliciosa.
+29,190,3,2025-07-31,La experiencia fue aceptable.
+327,140,2,2025-01-23,Muy buena experiencia.
+155,41,3,2025-08-02,Regresaría nuevamente.
+184,23,3,2026-04-08,Regresaría nuevamente.
+101,132,3,2025-09-03,Excelente servicio y comida.
+351,77,3,2026-01-06,Regresaría nuevamente.
+356,60,5,2024-08-18,El servicio puede mejorar.
+493,40,4,2025-12-17,La comida estuvo deliciosa.
+460,32,1,2025-05-18,Muy buena experiencia.
+156,97,1,2025-06-28,Buena relación entre precio y calidad.
+163,12,3,2024-10-16,La comida estuvo deliciosa.
+64,8,1,2025-02-21,Regresaría nuevamente.
+436,19,4,2025-07-05,El servicio puede mejorar.
+35,90,3,2026-01-27,Buena relación entre precio y calidad.
+59,167,2,2025-09-01,La experiencia fue aceptable.
+225,83,4,2025-08-11,Excelente servicio y comida.
+385,193,1,2024-11-29,La atención fue rápida.
+83,49,5,2024-09-14,Excelente servicio y comida.
+304,171,5,2025-11-28,Regresaría nuevamente.
+471,156,3,2026-04-24,Excelente servicio y comida.
+267,74,3,2026-02-22,La experiencia fue aceptable.
+449,84,5,2024-07-24,Buena relación entre precio y calidad.
+34,127,5,2026-03-31,La atención fue rápida.
+248,148,1,2025-05-27,La experiencia fue aceptable.
+430,14,3,2024-07-23,Regresaría nuevamente.
+361,147,1,2025-08-30,Los platillos estuvieron bien preparados.
+240,172,5,2025-10-10,El ambiente fue agradable.
+444,160,3,2025-03-21,Buena relación entre precio y calidad.
+138,116,1,2024-09-26,La comida estuvo deliciosa.
+430,178,3,2024-09-12,Buena relación entre precio y calidad.
+44,83,5,2026-01-10,Los platillos estuvieron bien preparados.
+470,141,3,2024-07-11,La atención fue rápida.
+405,90,5,2025-05-28,El ambiente fue agradable.
+346,143,5,2025-07-16,El ambiente fue agradable.
+418,143,3,2024-08-30,El servicio puede mejorar.
+184,169,1,2025-08-30,Los platillos estuvieron bien preparados.
+287,96,2,2026-01-23,La experiencia fue aceptable.
+36,38,1,2026-03-10,Los platillos estuvieron bien preparados.
+402,140,5,2025-03-06,La atención fue rápida.
+372,27,4,2026-03-18,Buena relación entre precio y calidad.
+93,97,5,2024-11-28,Los platillos estuvieron bien preparados.
+74,41,4,2026-05-16,Regresaría nuevamente.
+254,151,4,2024-06-22,Regresaría nuevamente.
+251,87,2,2025-06-23,La atención fue rápida.
+49,67,5,2024-07-21,El ambiente fue agradable.
+398,62,5,2025-06-19,El ambiente fue agradable.
+109,99,2,2024-07-12,Los platillos estuvieron bien preparados.
+368,27,2,2025-06-12,La comida estuvo deliciosa.
+64,15,2,2025-11-10,La atención fue rápida.
+234,102,5,2026-04-22,Muy buena experiencia.
+82,188,2,2024-12-14,Buena relación entre precio y calidad.
+195,91,1,2024-10-07,Los platillos estuvieron bien preparados.
+2,139,5,2026-01-31,Buena relación entre precio y calidad.
+10,168,4,2026-06-20,Muy buena experiencia.
+14,139,5,2024-09-17,El ambiente fue agradable.
+412,12,2,2024-12-04,La comida estuvo deliciosa.
+312,13,5,2025-01-04,Buena relación entre precio y calidad.
+440,144,4,2025-12-17,La comida estuvo deliciosa.
+396,114,1,2025-08-20,Muy buena experiencia.
+448,190,1,2026-02-28,Excelente servicio y comida.
+199,146,2,2024-12-08,Regresaría nuevamente.
+499,74,5,2025-09-04,Excelente servicio y comida.
+302,85,2,2025-03-04,Buena relación entre precio y calidad.
+1,101,1,2025-10-10,La atención fue rápida.
+353,44,4,2026-01-08,Muy buena experiencia.
+199,135,4,2024-12-02,Excelente servicio y comida.
+304,65,4,2026-03-14,La experiencia fue aceptable.
+409,135,3,2025-07-14,El servicio puede mejorar.
+301,196,3,2025-01-26,Regresaría nuevamente.
+151,66,4,2025-12-13,La experiencia fue aceptable.
+276,32,3,2025-02-19,Regresaría nuevamente.
+23,199,5,2024-08-08,El servicio puede mejorar.
+491,26,5,2026-01-12,Regresaría nuevamente.
+402,200,5,2024-11-05,Los platillos estuvieron bien preparados.
+24,78,5,2026-03-17,El servicio puede mejorar.
+202,169,3,2025-11-08,Muy buena experiencia.
+87,139,4,2026-01-10,Muy buena experiencia.
+499,171,5,2026-04-10,Los platillos estuvieron bien preparados.
+327,65,3,2024-12-08,Muy buena experiencia.
+424,56,1,2025-04-22,Los platillos estuvieron bien preparados.
+306,45,5,2024-07-07,La experiencia fue aceptable.
+49,26,3,2024-07-03,La atención fue rápida.
+366,33,4,2024-07-03,La experiencia fue aceptable.
+97,192,4,2025-08-09,La experiencia fue aceptable.
+88,142,3,2024-08-07,La experiencia fue aceptable.
+27,35,1,2026-05-10,Excelente servicio y comida.
+438,48,3,2026-04-01,El ambiente fue agradable.
+139,150,3,2026-01-19,La experiencia fue aceptable.
+411,79,1,2025-06-10,Regresaría nuevamente.
+405,141,4,2025-04-04,Regresaría nuevamente.
+337,13,3,2026-06-21,Muy buena experiencia.
+490,186,3,2025-11-17,Buena relación entre precio y calidad.
+433,189,1,2025-06-14,La comida estuvo deliciosa.
+1,75,2,2025-09-27,La experiencia fue aceptable.
+293,200,2,2024-07-30,La comida estuvo deliciosa.
+136,93,3,2025-07-12,La comida estuvo deliciosa.
+419,181,4,2026-05-13,El servicio puede mejorar.
+24,64,3,2024-08-16,La atención fue rápida.
+471,20,4,2024-12-31,Muy buena experiencia.
+70,93,5,2025-05-28,Buena relación entre precio y calidad.
+350,162,2,2025-06-16,Los platillos estuvieron bien preparados.
+442,92,5,2024-06-27,Excelente servicio y comida.
+469,164,4,2024-10-23,El servicio puede mejorar.
+9,102,2,2025-04-12,La comida estuvo deliciosa.
+65,73,2,2025-03-05,Los platillos estuvieron bien preparados.
+251,130,4,2026-04-15,La atención fue rápida.
+21,97,5,2024-09-10,Los platillos estuvieron bien preparados.
+258,77,3,2024-09-15,La comida estuvo deliciosa.
+247,148,2,2026-04-03,Excelente servicio y comida.
+109,24,5,2026-04-27,Buena relación entre precio y calidad.
+228,16,4,2026-04-05,Los platillos estuvieron bien preparados.
+348,24,1,2024-09-29,Muy buena experiencia.
+225,194,1,2026-05-02,Buena relación entre precio y calidad.
+264,44,4,2024-09-28,La comida estuvo deliciosa.
+165,61,2,2025-10-18,Muy buena experiencia.
+184,105,2,2026-06-05,El servicio puede mejorar.
+415,116,2,2025-12-11,Los platillos estuvieron bien preparados.
+423,113,3,2025-01-10,Buena relación entre precio y calidad.
+473,155,1,2025-06-17,Excelente servicio y comida.
+369,29,4,2025-03-08,Regresaría nuevamente.
+394,153,2,2025-06-12,La experiencia fue aceptable.
+430,69,4,2024-09-01,Muy buena experiencia.
+165,40,4,2026-02-14,El ambiente fue agradable.
+419,190,5,2024-12-21,Los platillos estuvieron bien preparados.
+272,25,4,2026-04-07,Regresaría nuevamente.
+399,58,4,2024-07-02,El servicio puede mejorar.
+15,59,2,2025-10-09,Buena relación entre precio y calidad.
+371,152,2,2025-07-27,La experiencia fue aceptable.
+320,196,2,2024-07-30,El servicio puede mejorar.
+488,149,3,2025-10-27,El ambiente fue agradable.
+328,180,5,2025-12-30,Muy buena experiencia.
+442,66,1,2025-02-23,El ambiente fue agradable.
+117,126,1,2025-01-21,El ambiente fue agradable.
+14,175,5,2025-09-22,Los platillos estuvieron bien preparados.
+1,76,1,2025-09-22,El servicio puede mejorar.
+142,77,5,2025-03-08,El servicio puede mejorar.
+29,113,3,2025-04-06,Muy buena experiencia.
+443,15,4,2025-12-17,Buena relación entre precio y calidad.
+15,148,5,2024-12-24,Regresaría nuevamente.
+275,180,5,2026-05-10,Los platillos estuvieron bien preparados.
+121,95,5,2025-03-04,Excelente servicio y comida.
+111,63,3,2026-03-17,Muy buena experiencia.
+116,6,5,2024-09-25,El servicio puede mejorar.
+465,81,3,2026-02-28,Buena relación entre precio y calidad.
+354,63,5,2025-04-18,Los platillos estuvieron bien preparados.
+29,53,4,2026-05-09,La experiencia fue aceptable.
+237,90,2,2024-10-03,Buena relación entre precio y calidad.
+30,67,1,2024-12-02,La atención fue rápida.
+391,70,1,2025-05-21,Los platillos estuvieron bien preparados.
+235,84,1,2025-09-26,Regresaría nuevamente.
+470,171,2,2026-04-28,El servicio puede mejorar.
+4,163,4,2025-02-25,Regresaría nuevamente.
+498,167,4,2025-04-08,La atención fue rápida.
+25,49,5,2026-02-10,El servicio puede mejorar.
+439,43,2,2026-01-30,Los platillos estuvieron bien preparados.
+217,81,5,2025-10-22,La experiencia fue aceptable.
+266,71,2,2026-03-12,El ambiente fue agradable.
+241,47,5,2025-07-14,El ambiente fue agradable.
+172,113,2,2025-09-02,La atención fue rápida.
+166,40,5,2026-06-22,La atención fue rápida.
+229,18,2,2026-01-13,Regresaría nuevamente.
+446,25,3,2024-11-29,Muy buena experiencia.
+84,50,1,2025-02-27,Excelente servicio y comida.
+211,47,1,2025-12-12,La experiencia fue aceptable.
+254,108,4,2024-06-27,Los platillos estuvieron bien preparados.
+331,188,1,2026-01-07,La experiencia fue aceptable.
+295,194,2,2026-05-27,La comida estuvo deliciosa.
+443,171,2,2024-07-24,Buena relación entre precio y calidad.
+426,63,5,2024-08-09,La comida estuvo deliciosa.
+220,21,3,2025-08-14,El ambiente fue agradable.
+55,171,1,2026-03-12,Regresaría nuevamente.
+392,78,5,2025-12-21,La experiencia fue aceptable.
+15,62,5,2025-09-17,El servicio puede mejorar.
+300,134,4,2025-10-01,La atención fue rápida.
+494,154,2,2025-01-10,Excelente servicio y comida.
+307,37,3,2024-11-29,La comida estuvo deliciosa.
+385,50,1,2025-12-08,La atención fue rápida.
+407,47,3,2024-11-11,El ambiente fue agradable.
+70,194,3,2025-12-05,La experiencia fue aceptable.
+163,73,1,2024-08-01,La atención fue rápida.
+258,8,5,2024-07-20,La atención fue rápida.
+192,159,5,2024-12-02,Regresaría nuevamente.
+123,92,2,2024-07-09,La experiencia fue aceptable.
+154,197,4,2024-10-13,Muy buena experiencia.
+320,140,5,2025-09-10,La atención fue rápida.
+406,90,3,2024-10-28,Muy buena experiencia.
+341,174,5,2024-08-11,Excelente servicio y comida.
+57,133,4,2024-06-30,Los platillos estuvieron bien preparados.
+2,14,5,2025-06-04,La comida estuvo deliciosa.
+248,11,3,2026-05-28,Buena relación entre precio y calidad.
+466,172,3,2026-05-08,Regresaría nuevamente.
+327,2,2,2024-08-04,El servicio puede mejorar.
+397,31,3,2026-04-18,La atención fue rápida.
+295,158,5,2025-10-27,Los platillos estuvieron bien preparados.
+310,163,4,2024-11-05,Los platillos estuvieron bien preparados.
+184,60,3,2025-07-17,La experiencia fue aceptable.
+378,38,5,2024-12-19,Excelente servicio y comida.
+249,167,3,2024-12-25,La comida estuvo deliciosa.
+43,29,4,2024-09-17,La comida estuvo deliciosa.
+63,184,5,2024-08-07,La experiencia fue aceptable.
+368,193,2,2024-06-25,Regresaría nuevamente.
+24,178,5,2024-12-18,La atención fue rápida.
+274,39,4,2025-10-09,La experiencia fue aceptable.
+312,95,3,2025-11-25,Muy buena experiencia.
+280,132,4,2026-01-20,La experiencia fue aceptable.
+409,93,4,2024-08-12,La experiencia fue aceptable.
+178,138,2,2025-01-26,Los platillos estuvieron bien preparados.
+209,17,1,2024-06-28,Muy buena experiencia.
+150,130,5,2024-12-27,Buena relación entre precio y calidad.
+447,36,3,2026-01-30,La atención fue rápida.
+265,26,2,2025-02-21,La comida estuvo deliciosa.
+95,77,3,2025-04-12,Muy buena experiencia.
+284,141,3,2026-05-08,Buena relación entre precio y calidad.
+395,168,4,2025-11-26,Muy buena experiencia.
+107,199,1,2024-11-24,Excelente servicio y comida.
+223,91,4,2024-08-02,La atención fue rápida.
+212,85,1,2024-11-12,Buena relación entre precio y calidad.
+43,21,2,2024-07-15,Los platillos estuvieron bien preparados.
+289,190,1,2025-04-02,Muy buena experiencia.
+97,35,3,2024-10-19,Regresaría nuevamente.
+19,135,1,2026-01-04,Los platillos estuvieron bien preparados.
+282,79,1,2025-06-10,La comida estuvo deliciosa.
+484,145,5,2026-01-10,El ambiente fue agradable.
+202,187,5,2026-01-14,La experiencia fue aceptable.
+214,118,4,2025-01-24,Muy buena experiencia.
+265,41,3,2025-01-10,Buena relación entre precio y calidad.
+158,61,4,2025-09-04,El ambiente fue agradable.
+212,184,1,2026-04-28,Buena relación entre precio y calidad.
+322,130,5,2025-06-17,El ambiente fue agradable.
+51,141,4,2024-08-18,Muy buena experiencia.
+389,141,4,2024-07-07,La comida estuvo deliciosa.
+322,47,1,2024-08-20,La atención fue rápida.
+295,186,3,2025-02-05,Los platillos estuvieron bien preparados.
+415,123,4,2025-06-22,El ambiente fue agradable.
+303,20,2,2026-05-02,Excelente servicio y comida.
+73,63,4,2025-05-02,Los platillos estuvieron bien preparados.
+178,40,4,2025-03-05,El ambiente fue agradable.
+142,145,3,2025-02-27,Los platillos estuvieron bien preparados.
+103,101,3,2025-06-07,La experiencia fue aceptable.
+327,103,1,2026-03-13,Excelente servicio y comida.
+86,107,2,2025-08-03,Regresaría nuevamente.
+304,52,5,2025-08-03,Buena relación entre precio y calidad.
+309,72,2,2024-10-13,La experiencia fue aceptable.
+173,112,2,2025-11-07,Regresaría nuevamente.
+153,170,4,2026-01-18,Excelente servicio y comida.
+418,77,2,2025-10-30,Muy buena experiencia.
+485,43,3,2025-06-26,Los platillos estuvieron bien preparados.
+211,194,5,2025-12-09,El ambiente fue agradable.
+242,134,4,2026-04-29,La experiencia fue aceptable.
+296,149,5,2025-06-01,La experiencia fue aceptable.
+411,172,1,2025-10-07,La atención fue rápida.
+37,150,5,2025-10-31,La experiencia fue aceptable.
+206,139,2,2026-04-05,La atención fue rápida.
+25,159,1,2025-11-14,Excelente servicio y comida.
+457,75,4,2026-01-25,La atención fue rápida.
+93,14,5,2025-01-25,La comida estuvo deliciosa.
+120,50,5,2024-10-27,Muy buena experiencia.
+127,89,2,2025-11-22,Regresaría nuevamente.
+262,169,2,2024-09-16,La comida estuvo deliciosa.
+110,139,1,2026-03-21,La experiencia fue aceptable.
+252,165,2,2026-03-11,Buena relación entre precio y calidad.
+92,1,1,2025-09-26,La comida estuvo deliciosa.
+41,72,4,2025-10-14,La atención fue rápida.
+410,153,5,2025-04-27,La experiencia fue aceptable.
+397,55,2,2026-02-26,Muy buena experiencia.
+354,102,4,2025-03-11,Muy buena experiencia.
+166,159,3,2025-04-27,Excelente servicio y comida.
+199,69,5,2024-12-11,El servicio puede mejorar.
+244,138,3,2024-09-12,Excelente servicio y comida.
+436,70,3,2025-11-20,Buena relación entre precio y calidad.
+185,108,2,2025-12-19,La comida estuvo deliciosa.
+383,64,1,2024-06-26,Los platillos estuvieron bien preparados.
+258,4,2,2025-07-09,Buena relación entre precio y calidad.
+446,29,4,2024-09-15,Muy buena experiencia.
+67,50,1,2026-03-21,La comida estuvo deliciosa.
+395,153,3,2026-06-08,La experiencia fue aceptable.
+194,2,2,2026-02-06,El servicio puede mejorar.
+272,29,3,2025-02-08,La comida estuvo deliciosa.
+495,16,2,2025-09-02,Regresaría nuevamente.
+419,108,4,2026-06-12,Los platillos estuvieron bien preparados.
+442,56,4,2025-06-21,El ambiente fue agradable.
+113,189,3,2025-05-16,El ambiente fue agradable.
+337,18,5,2025-06-02,La atención fue rápida.
+239,71,1,2026-05-15,El servicio puede mejorar.
+229,19,3,2025-02-02,El ambiente fue agradable.
+422,46,3,2024-09-17,La experiencia fue aceptable.
+260,54,1,2024-12-04,Buena relación entre precio y calidad.
+307,141,1,2025-11-05,Excelente servicio y comida.
+93,30,5,2024-10-06,La experiencia fue aceptable.
+441,34,3,2025-01-27,El servicio puede mejorar.
+452,30,1,2024-10-28,El servicio puede mejorar.
+109,93,3,2024-07-27,Excelente servicio y comida.
+166,74,4,2025-08-21,La comida estuvo deliciosa.
+141,157,4,2026-01-24,La atención fue rápida.
+273,29,5,2025-03-12,El servicio puede mejorar.
+146,124,5,2025-03-29,La comida estuvo deliciosa.
+346,132,5,2025-12-13,Regresaría nuevamente.
+299,173,4,2025-11-26,Excelente servicio y comida.
+128,134,2,2025-04-18,El ambiente fue agradable.
+199,106,3,2025-10-02,Excelente servicio y comida.
+323,84,4,2024-07-06,Excelente servicio y comida.
+213,84,1,2025-05-05,La atención fue rápida.
+345,114,5,2026-03-06,La atención fue rápida.
+180,177,1,2025-01-15,La atención fue rápida.
+186,130,2,2025-03-13,La comida estuvo deliciosa.
+238,59,1,2025-08-18,La experiencia fue aceptable.
+69,17,4,2025-03-22,La atención fue rápida.
+273,182,1,2025-04-02,Muy buena experiencia.
+345,179,2,2026-03-19,La atención fue rápida.
+416,143,5,2024-10-21,Los platillos estuvieron bien preparados.
+333,26,2,2026-01-04,Buena relación entre precio y calidad.
+348,187,2,2025-09-06,La experiencia fue aceptable.
+205,12,3,2025-09-04,Los platillos estuvieron bien preparados.
+103,147,3,2025-10-05,La atención fue rápida.
+203,164,3,2025-06-21,Buena relación entre precio y calidad.
+202,111,5,2025-02-18,Buena relación entre precio y calidad.
+489,18,5,2026-04-27,El ambiente fue agradable.
+459,79,4,2025-11-26,El servicio puede mejorar.
+453,154,1,2025-04-27,Los platillos estuvieron bien preparados.
+481,62,4,2025-11-29,Excelente servicio y comida.
+233,169,3,2025-11-10,El servicio puede mejorar.
+136,152,1,2026-06-02,La experiencia fue aceptable.
+261,142,4,2025-08-29,El servicio puede mejorar.
+466,93,3,2025-04-02,La comida estuvo deliciosa.
+267,132,1,2026-02-19,Buena relación entre precio y calidad.
+168,88,4,2026-01-26,Regresaría nuevamente.
+57,174,3,2025-04-15,Los platillos estuvieron bien preparados.
+439,25,2,2026-04-03,Regresaría nuevamente.
+254,191,4,2024-09-21,El servicio puede mejorar.
+409,134,4,2025-03-19,La experiencia fue aceptable.
+302,180,4,2024-09-03,La comida estuvo deliciosa.
+5,6,3,2026-04-02,Regresaría nuevamente.
+260,29,2,2025-10-12,Regresaría nuevamente.
+177,194,3,2025-03-26,Los platillos estuvieron bien preparados.
+170,184,1,2025-10-09,Muy buena experiencia.
+250,110,3,2026-02-21,Muy buena experiencia.
+259,146,5,2024-11-13,El servicio puede mejorar.
+325,89,3,2025-03-04,La comida estuvo deliciosa.
+228,185,1,2025-12-02,Los platillos estuvieron bien preparados.
+350,197,3,2025-03-29,La atención fue rápida.
+399,52,4,2026-01-23,Buena relación entre precio y calidad.
+339,137,4,2026-04-06,El ambiente fue agradable.
+382,137,3,2025-05-05,Buena relación entre precio y calidad.
+376,38,3,2025-04-29,El ambiente fue agradable.
+384,115,5,2025-09-24,La experiencia fue aceptable.
+430,198,1,2025-10-06,El servicio puede mejorar.
+139,152,1,2024-07-29,El servicio puede mejorar.
+418,200,1,2026-03-26,La comida estuvo deliciosa.
+474,10,3,2025-12-22,Excelente servicio y comida.
+377,39,1,2025-07-29,Los platillos estuvieron bien preparados.
+260,37,5,2025-03-23,Muy buena experiencia.
+481,116,5,2024-08-27,La comida estuvo deliciosa.
+154,92,2,2024-07-22,Excelente servicio y comida.
+409,182,5,2024-09-12,Muy buena experiencia.
+384,162,4,2025-02-03,La atención fue rápida.
+338,181,5,2025-01-16,La comida estuvo deliciosa.
+79,108,2,2024-11-11,Buena relación entre precio y calidad.
+306,29,4,2025-03-12,Regresaría nuevamente.
+452,23,3,2025-12-26,El servicio puede mejorar.
+352,84,5,2025-07-25,Los platillos estuvieron bien preparados.
+107,64,3,2024-07-17,Los platillos estuvieron bien preparados.
+41,148,4,2025-10-04,La atención fue rápida.
+321,111,5,2024-12-17,El servicio puede mejorar.
+62,161,5,2026-01-20,Regresaría nuevamente.
+403,105,4,2026-03-28,Muy buena experiencia.
+453,95,3,2024-11-09,Los platillos estuvieron bien preparados.
+48,199,1,2024-09-10,Excelente servicio y comida.
+80,85,1,2026-06-22,Buena relación entre precio y calidad.
+44,148,2,2025-07-01,Buena relación entre precio y calidad.
+447,105,5,2025-04-01,Buena relación entre precio y calidad.
+375,31,5,2025-06-05,La atención fue rápida.
+368,176,1,2025-11-22,Regresaría nuevamente.
+216,104,3,2026-02-09,Muy buena experiencia.
+93,164,3,2025-09-18,La experiencia fue aceptable.
+137,34,3,2025-04-22,La comida estuvo deliciosa.
+461,72,5,2024-12-24,La experiencia fue aceptable.
+47,106,4,2025-10-31,Muy buena experiencia.
+16,155,4,2024-10-08,El ambiente fue agradable.
+23,177,1,2026-02-12,Excelente servicio y comida.
+383,175,5,2025-11-11,El ambiente fue agradable.
+252,28,1,2025-08-22,La comida estuvo deliciosa.
+163,155,5,2025-10-26,El servicio puede mejorar.
+158,70,1,2024-11-27,La comida estuvo deliciosa.
+384,150,1,2026-02-21,Buena relación entre precio y calidad.
+106,42,1,2026-02-16,Los platillos estuvieron bien preparados.
+286,127,3,2025-11-08,Regresaría nuevamente.
+61,155,3,2024-11-23,Regresaría nuevamente.
+354,14,4,2024-09-29,La atención fue rápida.
+424,78,1,2026-01-04,La comida estuvo deliciosa.
+282,72,5,2024-11-09,La comida estuvo deliciosa.
+397,89,2,2024-06-27,El servicio puede mejorar.
+480,33,4,2025-10-20,Excelente servicio y comida.
+62,40,4,2025-09-04,Regresaría nuevamente.
+250,19,5,2025-08-23,El servicio puede mejorar.
+415,22,2,2025-08-11,La atención fue rápida.
+452,97,2,2024-06-29,La comida estuvo deliciosa.
+298,151,1,2026-05-19,Excelente servicio y comida.
+209,143,1,2026-04-07,Regresaría nuevamente.
+218,147,3,2025-08-18,El servicio puede mejorar.
+207,81,1,2025-04-19,Los platillos estuvieron bien preparados.
+99,196,3,2024-06-23,Excelente servicio y comida.
+248,46,3,2025-02-08,Muy buena experiencia.
+451,14,3,2025-01-11,La experiencia fue aceptable.
+163,3,1,2026-03-27,La experiencia fue aceptable.
+357,51,4,2026-02-17,Excelente servicio y comida.
+293,127,4,2025-03-15,La atención fue rápida.
+52,116,3,2026-01-20,El ambiente fue agradable.
+64,150,1,2025-02-08,La experiencia fue aceptable.
+116,128,2,2025-09-19,La experiencia fue aceptable.
+256,190,1,2024-09-11,Buena relación entre precio y calidad.
+437,11,1,2025-01-12,Buena relación entre precio y calidad.
+223,153,1,2026-02-08,Muy buena experiencia.
+316,35,5,2024-12-21,Buena relación entre precio y calidad.
+201,87,1,2024-09-13,Los platillos estuvieron bien preparados.
+259,95,2,2025-02-04,Los platillos estuvieron bien preparados.
+317,1,1,2025-02-26,El ambiente fue agradable.
+325,3,3,2025-05-26,La atención fue rápida.
+211,130,2,2026-06-16,Buena relación entre precio y calidad.
+484,154,3,2024-12-21,Muy buena experiencia.
+157,95,3,2025-03-10,El ambiente fue agradable.
+308,180,1,2024-06-24,Buena relación entre precio y calidad.
+395,110,4,2026-05-18,La experiencia fue aceptable.
+291,140,2,2025-06-02,El ambiente fue agradable.
+320,85,2,2024-10-25,La experiencia fue aceptable.
+457,98,3,2025-06-03,La atención fue rápida.
+158,77,3,2026-01-18,Excelente servicio y comida.
+56,44,2,2025-07-26,La experiencia fue aceptable.
+306,24,1,2026-06-12,El servicio puede mejorar.
+143,128,2,2024-11-29,Los platillos estuvieron bien preparados.
+321,153,3,2026-05-18,Excelente servicio y comida.
+483,196,3,2025-06-12,La experiencia fue aceptable.
+179,116,3,2025-04-28,La comida estuvo deliciosa.
+35,36,5,2026-04-08,La experiencia fue aceptable.
+43,184,2,2026-03-06,La comida estuvo deliciosa.
+281,17,1,2025-03-19,La comida estuvo deliciosa.
+94,160,3,2026-04-14,Buena relación entre precio y calidad.
+419,53,5,2026-05-16,Regresaría nuevamente.
+286,179,2,2026-03-16,Muy buena experiencia.
+318,130,3,2025-07-08,Buena relación entre precio y calidad.
+402,123,3,2024-11-26,La atención fue rápida.
+389,193,3,2024-06-22,La comida estuvo deliciosa.
+261,29,4,2026-03-15,Buena relación entre precio y calidad.
+349,140,1,2026-04-19,La experiencia fue aceptable.
+431,175,1,2024-09-11,El ambiente fue agradable.
+236,168,5,2024-07-20,Buena relación entre precio y calidad.
+245,126,4,2024-10-15,Regresaría nuevamente.
+287,184,2,2025-03-25,El servicio puede mejorar.
+362,75,1,2025-05-13,Buena relación entre precio y calidad.
+122,175,1,2025-12-01,Muy buena experiencia.
+29,102,2,2026-02-18,La comida estuvo deliciosa.
+370,77,2,2025-11-18,La comida estuvo deliciosa.
+13,61,3,2024-10-09,Los platillos estuvieron bien preparados.
+49,135,1,2025-05-25,Los platillos estuvieron bien preparados.
+107,162,1,2025-01-01,Buena relación entre precio y calidad.
+235,42,1,2025-10-12,El servicio puede mejorar.
+144,22,5,2026-05-19,Excelente servicio y comida.
+307,189,5,2026-04-26,El servicio puede mejorar.
+492,107,2,2025-08-05,La comida estuvo deliciosa.
+176,94,1,2025-07-23,Excelente servicio y comida.
+149,198,4,2024-09-19,Regresaría nuevamente.
+80,191,2,2026-01-23,Regresaría nuevamente.
+244,14,3,2026-01-03,Muy buena experiencia.
+107,51,5,2025-02-26,Los platillos estuvieron bien preparados.
+229,1,1,2025-08-29,Los platillos estuvieron bien preparados.
+353,105,2,2024-09-17,Regresaría nuevamente.
+177,79,1,2025-03-21,Muy buena experiencia.
+230,190,1,2024-10-04,El servicio puede mejorar.
+371,11,1,2024-07-11,Muy buena experiencia.
+415,196,1,2025-08-27,La atención fue rápida.
+156,124,1,2025-02-03,Buena relación entre precio y calidad.
+229,110,3,2024-09-28,El ambiente fue agradable.
+491,141,2,2025-05-04,Excelente servicio y comida.
+1,79,3,2025-08-17,Excelente servicio y comida.
+314,74,2,2026-03-02,Excelente servicio y comida.
+179,188,5,2024-12-27,Excelente servicio y comida.
+319,198,5,2025-10-28,Regresaría nuevamente.
+39,157,3,2026-04-10,Excelente servicio y comida.
+137,121,2,2024-09-14,La atención fue rápida.
+11,81,2,2025-12-08,Excelente servicio y comida.
+2,195,4,2026-04-01,Muy buena experiencia.
+396,200,2,2025-11-29,El servicio puede mejorar.
+205,6,5,2025-09-18,Excelente servicio y comida.
+48,200,5,2025-11-22,Los platillos estuvieron bien preparados.
+211,65,1,2026-04-17,La experiencia fue aceptable.
+458,19,2,2025-03-05,La experiencia fue aceptable.
+412,115,1,2025-02-21,La atención fue rápida.
+290,183,2,2026-02-28,Muy buena experiencia.
+47,17,1,2025-06-09,Muy buena experiencia.
+237,49,2,2025-05-13,El ambiente fue agradable.
+114,78,4,2024-10-26,El servicio puede mejorar.
+180,22,5,2026-04-09,El ambiente fue agradable.
+109,152,1,2026-05-10,Los platillos estuvieron bien preparados.
+16,44,1,2025-02-05,Regresaría nuevamente.
+7,128,3,2025-01-15,Regresaría nuevamente.
+396,40,4,2024-10-21,Regresaría nuevamente.
+420,148,5,2025-07-03,Excelente servicio y comida.
+60,115,1,2026-03-28,Muy buena experiencia.
+161,164,4,2026-01-21,La comida estuvo deliciosa.
+485,161,1,2026-05-25,La comida estuvo deliciosa.
+188,38,5,2025-03-12,Excelente servicio y comida.
+110,144,4,2025-01-04,La atención fue rápida.
+83,186,1,2026-05-02,Muy buena experiencia.
+342,74,5,2024-09-03,La atención fue rápida.
+482,14,5,2024-11-15,La comida estuvo deliciosa.
+50,25,1,2025-09-25,La atención fue rápida.
+247,3,5,2024-07-07,Muy buena experiencia.
+187,140,3,2025-12-26,El ambiente fue agradable.
+491,154,5,2026-05-30,Excelente servicio y comida.
+330,152,1,2025-11-26,Excelente servicio y comida.
+496,158,1,2025-04-29,El ambiente fue agradable.
+224,131,3,2025-01-09,El ambiente fue agradable.
+111,181,1,2025-04-10,Los platillos estuvieron bien preparados.
+188,8,4,2025-01-19,Los platillos estuvieron bien preparados.
+147,46,3,2025-01-26,Buena relación entre precio y calidad.
+344,56,3,2024-12-12,Buena relación entre precio y calidad.
+460,52,4,2026-03-26,El ambiente fue agradable.
+149,35,4,2024-10-17,La comida estuvo deliciosa.
+161,60,3,2025-01-13,Excelente servicio y comida.
+86,53,3,2025-01-20,El ambiente fue agradable.
+255,31,5,2025-02-08,Buena relación entre precio y calidad.
+196,183,1,2025-04-30,Muy buena experiencia.
+165,162,3,2025-12-18,Los platillos estuvieron bien preparados.
+54,148,4,2024-11-12,El servicio puede mejorar.
+20,52,3,2026-01-11,El ambiente fue agradable.
+77,74,5,2025-01-04,Los platillos estuvieron bien preparados.
+346,115,5,2024-08-22,La comida estuvo deliciosa.
+467,59,2,2024-09-24,El servicio puede mejorar.
+438,61,5,2024-10-15,Los platillos estuvieron bien preparados.
+79,155,3,2025-10-06,Excelente servicio y comida.
+123,193,1,2025-04-02,El ambiente fue agradable.
+74,62,5,2025-02-16,La comida estuvo deliciosa.
+52,190,4,2026-03-13,Los platillos estuvieron bien preparados.
+38,168,4,2025-02-17,Muy buena experiencia.
+495,93,5,2026-05-08,Muy buena experiencia.
+215,61,2,2026-03-27,Los platillos estuvieron bien preparados.
+47,112,2,2025-12-18,La atención fue rápida.
+267,135,4,2025-06-02,El ambiente fue agradable.
+175,4,2,2024-11-29,Los platillos estuvieron bien preparados.
+410,119,2,2024-12-03,Los platillos estuvieron bien preparados.
+428,178,3,2025-06-02,Excelente servicio y comida.
+218,191,3,2024-07-12,Excelente servicio y comida.
+279,184,4,2024-11-04,Los platillos estuvieron bien preparados.
+50,16,1,2026-01-11,Regresaría nuevamente.
+284,63,4,2025-11-28,La comida estuvo deliciosa.
+434,87,2,2025-04-25,La experiencia fue aceptable.
+260,41,1,2024-06-27,Buena relación entre precio y calidad.
+282,99,3,2025-04-08,La atención fue rápida.
+163,168,3,2024-10-15,La comida estuvo deliciosa.
+216,184,2,2024-08-12,La experiencia fue aceptable.
+27,49,2,2025-03-01,Excelente servicio y comida.
+146,74,4,2025-12-28,Buena relación entre precio y calidad.
+73,112,1,2024-12-01,Los platillos estuvieron bien preparados.
+167,63,4,2024-11-18,Buena relación entre precio y calidad.
+388,158,2,2024-07-20,Excelente servicio y comida.
+14,171,4,2025-06-29,La comida estuvo deliciosa.
+227,175,1,2024-12-16,La experiencia fue aceptable.
+238,27,5,2024-11-04,La atención fue rápida.
+112,122,5,2024-10-12,Regresaría nuevamente.
+463,127,3,2026-05-12,El servicio puede mejorar.
+206,20,5,2024-08-14,Regresaría nuevamente.
+65,182,4,2026-05-27,Regresaría nuevamente.
+137,190,2,2026-05-14,La atención fue rápida.
+214,192,1,2024-12-26,Regresaría nuevamente.
+173,54,4,2025-03-30,Buena relación entre precio y calidad.
+466,3,2,2026-04-18,El servicio puede mejorar.
+247,175,5,2025-08-22,La experiencia fue aceptable.
+79,135,1,2026-01-22,Excelente servicio y comida.
+467,199,4,2025-07-15,Buena relación entre precio y calidad.
+37,160,2,2026-05-06,El servicio puede mejorar.
+443,68,4,2025-05-09,La comida estuvo deliciosa.
+415,157,1,2025-10-30,La comida estuvo deliciosa.
+74,90,4,2025-04-12,Excelente servicio y comida.
+249,108,3,2025-03-19,Excelente servicio y comida.
+296,47,1,2026-02-26,La comida estuvo deliciosa.
+359,131,1,2025-06-27,Los platillos estuvieron bien preparados.
+185,82,5,2026-06-09,Los platillos estuvieron bien preparados.
+9,40,3,2025-11-26,El servicio puede mejorar.
+123,79,3,2025-05-04,Excelente servicio y comida.
+108,18,4,2025-07-11,La atención fue rápida.
+354,40,3,2026-03-12,La experiencia fue aceptable.
+201,197,1,2026-04-09,La atención fue rápida.
+135,126,3,2025-11-22,Muy buena experiencia.
+127,9,5,2025-05-09,El servicio puede mejorar.
+191,21,3,2024-07-08,La comida estuvo deliciosa.
+336,80,1,2025-11-16,La comida estuvo deliciosa.
+210,185,4,2025-05-05,El servicio puede mejorar.
+26,198,4,2024-10-04,Excelente servicio y comida.
+210,150,5,2025-03-14,Excelente servicio y comida.
+63,151,3,2025-08-24,La atención fue rápida.
+439,144,5,2025-05-15,La experiencia fue aceptable.
+244,2,5,2025-07-19,Los platillos estuvieron bien preparados.
+193,4,4,2025-02-15,El servicio puede mejorar.
+361,9,4,2025-09-09,Los platillos estuvieron bien preparados.
+453,42,3,2025-06-29,El ambiente fue agradable.
+272,127,5,2025-01-08,Buena relación entre precio y calidad.
+205,68,3,2026-02-17,El ambiente fue agradable.
+402,37,2,2025-07-14,El servicio puede mejorar.
+70,51,3,2026-03-04,Muy buena experiencia.
+83,21,5,2024-12-19,Excelente servicio y comida.
+256,73,3,2025-10-20,El ambiente fue agradable.
+396,98,4,2025-07-30,El servicio puede mejorar.
+198,170,2,2024-09-21,La atención fue rápida.
+407,123,1,2025-12-06,El ambiente fue agradable.
+371,7,4,2025-04-29,Los platillos estuvieron bien preparados.
+151,93,4,2025-12-13,El ambiente fue agradable.
+344,200,3,2024-08-10,El ambiente fue agradable.
+381,164,2,2025-07-16,Buena relación entre precio y calidad.
+86,188,2,2024-09-06,Muy buena experiencia.
+445,154,3,2025-02-08,La experiencia fue aceptable.
+106,29,2,2025-03-10,El ambiente fue agradable.
+482,108,2,2025-10-30,La atención fue rápida.
+466,117,4,2024-09-08,Los platillos estuvieron bien preparados.
+453,114,5,2025-11-01,Muy buena experiencia.
+482,180,2,2025-04-09,Muy buena experiencia.
+218,142,1,2024-08-13,El ambiente fue agradable.
+118,31,1,2025-01-13,La atención fue rápida.
+311,190,3,2024-07-05,El servicio puede mejorar.
+490,174,1,2026-06-17,Muy buena experiencia.
+42,46,5,2024-10-21,El ambiente fue agradable.
+50,168,1,2025-06-27,La experiencia fue aceptable.
+77,177,5,2025-01-22,Excelente servicio y comida.
+119,147,4,2026-06-14,Excelente servicio y comida.
+379,75,1,2024-12-02,La experiencia fue aceptable.
+408,97,4,2024-09-20,Muy buena experiencia.
+246,139,1,2026-05-19,La comida estuvo deliciosa.
+375,109,2,2025-06-13,El ambiente fue agradable.
+427,125,3,2024-10-07,Los platillos estuvieron bien preparados.
+456,157,4,2024-07-05,Buena relación entre precio y calidad.
+401,131,3,2025-05-28,Muy buena experiencia.
+207,112,2,2025-12-22,Regresaría nuevamente.
+437,71,3,2024-12-01,La experiencia fue aceptable.
+250,186,1,2026-01-07,El ambiente fue agradable.
+407,117,1,2025-07-22,La comida estuvo deliciosa.
+401,111,4,2026-04-16,La experiencia fue aceptable.
+358,108,5,2025-07-03,Buena relación entre precio y calidad.
+347,63,3,2024-10-29,El ambiente fue agradable.
+202,48,1,2025-12-22,La atención fue rápida.
+342,197,4,2025-09-26,Excelente servicio y comida.
+489,189,5,2024-12-09,Los platillos estuvieron bien preparados.
+182,91,3,2025-02-15,La atención fue rápida.
+22,196,4,2026-04-08,Excelente servicio y comida.
+300,20,3,2025-08-05,Buena relación entre precio y calidad.
+367,137,3,2024-07-06,Regresaría nuevamente.
+357,83,1,2024-10-22,La atención fue rápida.
+430,179,1,2025-07-04,Buena relación entre precio y calidad.
+312,74,4,2025-03-28,La experiencia fue aceptable.
+426,14,2,2024-11-20,Muy buena experiencia.
+387,67,3,2024-09-05,La atención fue rápida.
+406,8,4,2026-02-23,El ambiente fue agradable.
+392,90,3,2026-05-21,El servicio puede mejorar.
+24,87,4,2024-12-25,La experiencia fue aceptable.
+115,61,1,2025-06-24,La experiencia fue aceptable.
+402,159,5,2025-03-04,Los platillos estuvieron bien preparados.
+438,92,3,2024-09-30,Excelente servicio y comida.
+137,10,1,2025-04-05,La atención fue rápida.
+427,84,5,2026-01-22,Buena relación entre precio y calidad.
+33,86,4,2024-07-25,Excelente servicio y comida.
+264,67,5,2026-01-11,El ambiente fue agradable.
+218,73,3,2025-04-16,Regresaría nuevamente.
+175,134,2,2025-11-24,Buena relación entre precio y calidad.
+128,69,1,2026-01-12,Buena relación entre precio y calidad.
+471,9,1,2025-08-12,La comida estuvo deliciosa.
+37,60,5,2024-12-28,El servicio puede mejorar.
+92,5,2,2025-03-26,Los platillos estuvieron bien preparados.
+393,59,3,2024-10-27,El servicio puede mejorar.
+461,110,3,2024-12-08,Regresaría nuevamente.
+330,59,2,2025-08-01,Buena relación entre precio y calidad.
+133,101,2,2024-10-29,Muy buena experiencia.
+90,117,5,2024-11-02,Excelente servicio y comida.
+147,93,5,2024-11-27,El servicio puede mejorar.
+39,107,4,2024-12-16,El ambiente fue agradable.
+6,123,5,2025-08-01,El servicio puede mejorar.
+221,5,2,2026-04-27,Buena relación entre precio y calidad.
+445,51,4,2025-05-26,La comida estuvo deliciosa.
+312,172,3,2024-08-05,Buena relación entre precio y calidad.
+232,120,1,2026-01-08,La experiencia fue aceptable.
+444,84,3,2025-12-24,Regresaría nuevamente.
+35,17,2,2024-06-30,Regresaría nuevamente.
+44,28,3,2024-08-12,La atención fue rápida.
+8,143,2,2026-01-20,La experiencia fue aceptable.
+453,25,1,2026-05-08,El servicio puede mejorar.
+1,149,1,2025-12-18,El servicio puede mejorar.
+112,30,1,2025-10-06,Excelente servicio y comida.
+210,53,1,2024-10-27,Los platillos estuvieron bien preparados.
+424,67,2,2025-11-10,Regresaría nuevamente.
+5,94,2,2024-12-05,El servicio puede mejorar.
+500,25,3,2026-05-19,Buena relación entre precio y calidad.
+145,97,5,2025-03-31,Excelente servicio y comida.
+399,18,1,2026-05-14,La atención fue rápida.
+268,71,2,2025-06-16,Regresaría nuevamente.
+471,76,5,2024-11-29,La experiencia fue aceptable.
+285,167,5,2026-06-21,La atención fue rápida.
+431,127,3,2025-07-05,Los platillos estuvieron bien preparados.
+90,99,4,2025-04-15,La experiencia fue aceptable.
+71,18,3,2024-11-08,La experiencia fue aceptable.
+175,79,2,2024-12-05,Regresaría nuevamente.
+438,59,4,2024-08-25,Buena relación entre precio y calidad.
+500,96,3,2026-06-07,Muy buena experiencia.
+116,59,2,2025-11-10,La atención fue rápida.
+250,108,4,2025-12-12,Buena relación entre precio y calidad.
+373,4,4,2024-12-16,Regresaría nuevamente.
+251,117,5,2025-12-12,El ambiente fue agradable.
+381,176,3,2025-01-16,Regresaría nuevamente.
+128,123,5,2025-10-18,Excelente servicio y comida.
+430,128,1,2026-01-20,La atención fue rápida.
+8,26,3,2024-10-10,Los platillos estuvieron bien preparados.
+15,197,4,2026-01-28,El servicio puede mejorar.
+491,127,1,2024-12-29,Excelente servicio y comida.
+464,193,5,2024-07-08,Muy buena experiencia.
+164,198,1,2025-01-07,La atención fue rápida.
+126,138,3,2026-05-11,La atención fue rápida.
+143,92,2,2025-06-06,Buena relación entre precio y calidad.
+336,99,4,2026-06-16,La comida estuvo deliciosa.
+279,108,5,2025-05-11,El ambiente fue agradable.
+102,185,1,2025-11-24,El ambiente fue agradable.
+363,200,1,2024-11-21,La atención fue rápida.
+229,68,4,2024-08-20,Los platillos estuvieron bien preparados.
+3,32,2,2025-08-04,La experiencia fue aceptable.
+81,145,3,2024-11-09,La experiencia fue aceptable.
+77,143,1,2025-11-18,Los platillos estuvieron bien preparados.
+41,29,1,2025-03-30,Los platillos estuvieron bien preparados.
+425,63,3,2026-02-08,Los platillos estuvieron bien preparados.
+259,75,4,2025-06-10,Muy buena experiencia.
+74,128,4,2025-01-19,Muy buena experiencia.
+259,66,1,2026-02-12,Los platillos estuvieron bien preparados.
+106,55,2,2025-05-24,El ambiente fue agradable.
+426,132,1,2025-05-18,La experiencia fue aceptable.
+3,52,2,2024-10-27,Muy buena experiencia.
+63,109,1,2025-07-18,Los platillos estuvieron bien preparados.
+324,197,3,2025-03-16,Los platillos estuvieron bien preparados.
+153,86,5,2026-03-27,Los platillos estuvieron bien preparados.
+482,110,3,2025-03-21,Buena relación entre precio y calidad.
+239,194,1,2025-01-23,Buena relación entre precio y calidad.
+63,163,2,2026-03-03,La experiencia fue aceptable.
+420,65,2,2026-03-18,Buena relación entre precio y calidad.
+1,180,3,2024-06-27,La comida estuvo deliciosa.
+463,30,2,2025-07-23,Los platillos estuvieron bien preparados.
+278,96,3,2024-10-28,Excelente servicio y comida.
+366,40,3,2025-04-19,Los platillos estuvieron bien preparados.
+377,71,4,2024-10-10,Buena relación entre precio y calidad.
+481,179,1,2025-08-14,El servicio puede mejorar.
+96,110,5,2025-08-10,La experiencia fue aceptable.
+96,176,4,2024-09-13,Los platillos estuvieron bien preparados.
+448,17,5,2025-11-25,Los platillos estuvieron bien preparados.
+213,58,2,2026-02-16,La experiencia fue aceptable.
+199,5,4,2024-11-08,La comida estuvo deliciosa.
+170,64,5,2026-06-22,Muy buena experiencia.
+357,137,4,2025-03-12,La atención fue rápida.
+346,123,2,2024-10-26,Muy buena experiencia.
+451,165,1,2026-02-07,La atención fue rápida.
+245,180,1,2025-12-29,La atención fue rápida.
+291,186,3,2024-08-02,Regresaría nuevamente.
+6,48,1,2024-08-21,La atención fue rápida.
+215,76,1,2026-02-19,La comida estuvo deliciosa.
+338,99,2,2024-06-26,El ambiente fue agradable.
+30,88,3,2025-12-29,Muy buena experiencia.
+270,163,4,2024-09-04,Muy buena experiencia.
+189,104,4,2025-08-14,Buena relación entre precio y calidad.
+361,85,4,2025-06-15,El servicio puede mejorar.
+350,99,4,2026-02-13,Buena relación entre precio y calidad.
+285,122,5,2025-11-18,Muy buena experiencia.
+351,183,5,2025-03-03,La atención fue rápida.
+137,86,3,2025-06-15,El ambiente fue agradable.
+108,62,5,2025-12-13,Los platillos estuvieron bien preparados.
+188,119,3,2024-11-30,La comida estuvo deliciosa.
+432,108,2,2025-10-02,El servicio puede mejorar.
+373,9,4,2024-11-23,El servicio puede mejorar.
+255,94,5,2025-03-10,El servicio puede mejorar.
+325,112,4,2025-01-11,La atención fue rápida.
+11,122,2,2025-09-24,La atención fue rápida.
+348,108,5,2026-02-06,El ambiente fue agradable.
+348,40,3,2024-11-30,Excelente servicio y comida.
+62,170,3,2025-04-27,Muy buena experiencia.
+169,162,1,2026-04-15,La experiencia fue aceptable.
+316,153,5,2024-10-24,La experiencia fue aceptable.
+124,159,2,2025-07-28,La experiencia fue aceptable.
+375,168,4,2025-10-06,La comida estuvo deliciosa.
+406,4,3,2024-10-03,La comida estuvo deliciosa.
+113,122,2,2026-04-08,Regresaría nuevamente.
+259,33,3,2026-03-20,Buena relación entre precio y calidad.
+190,117,3,2025-02-12,Buena relación entre precio y calidad.
+300,29,4,2025-03-28,Muy buena experiencia.
+331,196,5,2025-06-09,Regresaría nuevamente.
+424,35,4,2024-08-13,Muy buena experiencia.
+496,128,2,2025-03-25,El ambiente fue agradable.
+454,89,3,2024-10-22,Los platillos estuvieron bien preparados.
+98,192,4,2025-08-31,La experiencia fue aceptable.
+261,97,5,2025-12-20,La comida estuvo deliciosa.
+391,46,1,2025-11-02,La atención fue rápida.
+5,185,1,2025-05-25,La comida estuvo deliciosa.
+171,43,3,2026-06-17,Muy buena experiencia.
+461,82,3,2025-08-16,El servicio puede mejorar.
+253,102,5,2025-03-17,Regresaría nuevamente.
+3,166,4,2025-09-20,La comida estuvo deliciosa.
+392,138,2,2025-11-14,Los platillos estuvieron bien preparados.
+310,157,5,2025-04-13,Buena relación entre precio y calidad.
+316,181,1,2024-09-25,El servicio puede mejorar.
+113,101,4,2024-11-29,Los platillos estuvieron bien preparados.
+415,57,3,2024-07-13,Muy buena experiencia.
+398,186,3,2025-11-10,El ambiente fue agradable.
+88,112,3,2025-07-25,Los platillos estuvieron bien preparados.
+135,84,2,2025-12-28,Excelente servicio y comida.
+369,158,4,2025-04-26,Muy buena experiencia.
+209,167,2,2025-01-15,Buena relación entre precio y calidad.
+33,16,1,2024-08-14,Buena relación entre precio y calidad.
+74,73,3,2026-02-25,La comida estuvo deliciosa.
+64,48,1,2025-04-05,Los platillos estuvieron bien preparados.
+482,37,4,2025-08-23,Excelente servicio y comida.
+278,199,2,2024-10-03,El servicio puede mejorar.
+8,77,1,2025-08-11,Regresaría nuevamente.
+313,157,2,2025-06-27,Los platillos estuvieron bien preparados.
+373,61,2,2025-09-04,El servicio puede mejorar.
+164,13,2,2024-08-04,La comida estuvo deliciosa.
+379,80,1,2025-05-28,El ambiente fue agradable.
+368,36,5,2026-02-27,Excelente servicio y comida.
+183,197,4,2024-07-01,Los platillos estuvieron bien preparados.
+75,148,4,2026-04-11,La atención fue rápida.
+18,179,4,2024-08-07,Excelente servicio y comida.
+337,76,3,2025-04-09,La atención fue rápida.
+496,4,4,2025-07-05,La atención fue rápida.
+342,165,1,2026-04-23,El servicio puede mejorar.
+491,34,1,2025-06-13,La atención fue rápida.
+230,82,1,2026-06-07,Excelente servicio y comida.
+87,78,5,2025-06-08,Excelente servicio y comida.
+364,145,2,2025-05-14,El servicio puede mejorar.
+157,106,5,2026-01-20,La experiencia fue aceptable.
+244,160,5,2025-02-10,Buena relación entre precio y calidad.
+60,126,1,2024-07-02,Excelente servicio y comida.
+28,36,5,2024-10-12,Los platillos estuvieron bien preparados.
+203,19,4,2025-02-10,La comida estuvo deliciosa.
+106,140,4,2025-12-14,Regresaría nuevamente.
+381,24,5,2026-04-30,La experiencia fue aceptable.
+2,198,4,2025-03-05,La atención fue rápida.
+290,147,5,2026-02-27,Buena relación entre precio y calidad.
+175,171,4,2025-01-28,El servicio puede mejorar.
+78,10,4,2025-08-12,Los platillos estuvieron bien preparados.
+374,73,4,2025-08-03,El servicio puede mejorar.
+391,103,5,2024-07-21,Excelente servicio y comida.
+465,108,3,2024-08-30,Excelente servicio y comida.
+442,145,5,2024-10-16,Muy buena experiencia.
+9,148,2,2026-05-17,El servicio puede mejorar.
+416,167,4,2025-10-18,La comida estuvo deliciosa.
+334,199,1,2024-07-30,El servicio puede mejorar.
+404,187,3,2025-09-26,La experiencia fue aceptable.
+6,148,1,2025-11-15,Excelente servicio y comida.
+222,152,1,2024-07-15,La experiencia fue aceptable.
+276,146,3,2024-07-17,La atención fue rápida.
+180,178,4,2026-04-13,La experiencia fue aceptable.
+347,28,1,2024-11-09,Los platillos estuvieron bien preparados.
+135,156,3,2025-12-02,La atención fue rápida.
+82,198,2,2026-05-07,Los platillos estuvieron bien preparados.
+12,77,2,2025-12-20,Regresaría nuevamente.
+404,60,1,2026-05-26,La atención fue rápida.
+80,6,1,2025-10-11,Muy buena experiencia.
+44,32,3,2026-02-24,Excelente servicio y comida.
+22,21,2,2025-02-10,La experiencia fue aceptable.
+107,92,5,2025-10-06,Los platillos estuvieron bien preparados.
+466,52,3,2024-10-27,El servicio puede mejorar.
+143,196,2,2025-04-25,La comida estuvo deliciosa.
+472,141,5,2024-06-27,La atención fue rápida.
+155,26,1,2026-02-14,La comida estuvo deliciosa.
+128,92,4,2025-08-26,El ambiente fue agradable.
+493,33,3,2026-02-03,Los platillos estuvieron bien preparados.
+276,121,5,2026-02-06,La comida estuvo deliciosa.
+166,48,5,2026-02-04,Muy buena experiencia.
+150,44,4,2025-08-24,Buena relación entre precio y calidad.
+371,85,3,2025-07-16,Excelente servicio y comida.
+227,60,3,2025-11-20,La comida estuvo deliciosa.
+431,50,4,2025-06-12,El ambiente fue agradable.
+1,38,2,2024-09-22,Buena relación entre precio y calidad.
+188,90,5,2024-11-08,Muy buena experiencia.
+177,53,1,2026-03-22,Buena relación entre precio y calidad.
+243,200,3,2024-10-17,Excelente servicio y comida.
+112,56,3,2026-02-06,Excelente servicio y comida.
+321,85,5,2026-05-05,Buena relación entre precio y calidad.
+90,14,3,2025-09-01,El servicio puede mejorar.
+349,174,5,2025-02-25,Regresaría nuevamente.
+426,37,5,2025-10-18,La experiencia fue aceptable.
+43,91,2,2025-05-18,La atención fue rápida.
+367,44,4,2025-08-02,Excelente servicio y comida.
+441,146,2,2026-01-24,El servicio puede mejorar.
+17,183,3,2026-02-03,Muy buena experiencia.
+339,69,5,2025-12-16,La comida estuvo deliciosa.
+407,179,2,2025-06-23,La atención fue rápida.
+342,24,2,2024-07-09,Buena relación entre precio y calidad.
+75,110,1,2025-03-05,Regresaría nuevamente.
+326,124,5,2026-06-12,La experiencia fue aceptable.
+263,7,3,2025-02-11,Buena relación entre precio y calidad.
+164,65,4,2025-02-17,El servicio puede mejorar.
+320,136,5,2026-06-06,La atención fue rápida.
+226,115,1,2025-02-02,Regresaría nuevamente.
+364,8,5,2026-02-11,La atención fue rápida.
+174,66,5,2025-02-12,Buena relación entre precio y calidad.
+70,31,2,2025-07-06,La comida estuvo deliciosa.
+497,197,1,2025-08-01,Regresaría nuevamente.
+372,99,3,2025-07-10,Buena relación entre precio y calidad.
+352,137,1,2024-09-12,Muy buena experiencia.
+240,39,4,2025-08-23,Excelente servicio y comida.
+67,84,1,2025-11-18,Buena relación entre precio y calidad.
+143,33,3,2026-06-20,La atención fue rápida.
+203,51,1,2024-07-14,Regresaría nuevamente.
+420,41,3,2024-10-29,Excelente servicio y comida.
+186,128,3,2024-07-02,Regresaría nuevamente.
+436,119,2,2025-08-06,La atención fue rápida.
+277,56,3,2025-01-07,Buena relación entre precio y calidad.
+13,91,4,2026-02-24,Muy buena experiencia.
+470,47,4,2026-05-23,Los platillos estuvieron bien preparados.
+257,1,2,2025-09-29,Regresaría nuevamente.
+421,51,2,2025-11-05,Buena relación entre precio y calidad.
+500,140,3,2025-03-19,El ambiente fue agradable.
+43,100,1,2024-09-30,Los platillos estuvieron bien preparados.
+291,63,4,2024-09-09,Muy buena experiencia.
+26,166,3,2025-12-16,La experiencia fue aceptable.
+68,161,1,2025-10-19,La experiencia fue aceptable.
+154,116,1,2025-09-11,El servicio puede mejorar.
+367,81,1,2025-07-22,La atención fue rápida.
+472,45,2,2024-09-16,La experiencia fue aceptable.
+307,38,2,2025-03-21,Los platillos estuvieron bien preparados.
+326,20,1,2025-07-12,Muy buena experiencia.
+189,79,3,2024-08-05,La experiencia fue aceptable.
+82,184,2,2025-04-23,La atención fue rápida.
+424,52,2,2024-11-01,La experiencia fue aceptable.
+437,150,1,2024-10-23,Excelente servicio y comida.
+32,101,4,2025-05-25,Regresaría nuevamente.
+415,63,1,2024-08-10,Buena relación entre precio y calidad.
+359,128,1,2026-04-30,Muy buena experiencia.
+316,117,1,2025-10-17,Los platillos estuvieron bien preparados.
+66,134,2,2025-01-15,El ambiente fue agradable.
+252,107,2,2025-04-09,El ambiente fue agradable.
+245,73,5,2026-02-08,El servicio puede mejorar.
+218,152,5,2025-11-19,El servicio puede mejorar.
+25,84,2,2025-09-06,El ambiente fue agradable.
+398,197,3,2024-09-24,Buena relación entre precio y calidad.
+318,169,4,2025-10-31,La experiencia fue aceptable.
+280,173,5,2025-01-11,La comida estuvo deliciosa.
+54,107,1,2025-06-06,La atención fue rápida.
+1,138,1,2025-09-07,Muy buena experiencia.
+206,181,4,2025-10-20,El servicio puede mejorar.
+115,145,2,2025-05-14,El ambiente fue agradable.
+187,73,3,2024-12-31,Regresaría nuevamente.
+352,165,3,2025-02-04,Regresaría nuevamente.
+187,125,2,2025-05-08,La comida estuvo deliciosa.
+209,133,2,2024-07-04,Buena relación entre precio y calidad.
+116,12,2,2026-02-11,La comida estuvo deliciosa.
+371,49,2,2025-05-03,La experiencia fue aceptable.
+323,173,3,2024-10-13,Regresaría nuevamente.
+397,63,5,2026-01-18,La comida estuvo deliciosa.
+130,118,4,2026-03-15,La atención fue rápida.
+132,108,1,2025-11-14,Muy buena experiencia.
+464,36,2,2024-11-23,El ambiente fue agradable.
+477,126,1,2025-11-24,Buena relación entre precio y calidad.
+121,147,4,2025-07-01,La atención fue rápida.
+375,57,3,2025-09-08,La experiencia fue aceptable.
+258,121,5,2025-04-04,Regresaría nuevamente.
+227,164,3,2026-04-17,El servicio puede mejorar.
+60,137,2,2024-08-31,Buena relación entre precio y calidad.
+280,21,2,2025-11-09,El servicio puede mejorar.
+469,108,1,2024-08-06,La comida estuvo deliciosa.
+315,152,3,2025-03-03,Excelente servicio y comida.
+315,143,1,2026-02-18,Los platillos estuvieron bien preparados.
+140,88,2,2025-06-09,Muy buena experiencia.
+466,43,2,2025-01-09,La comida estuvo deliciosa.
+205,150,3,2025-11-04,La experiencia fue aceptable.
+58,107,4,2025-09-09,La comida estuvo deliciosa.
+244,85,5,2026-02-25,El ambiente fue agradable.
+1,200,1,2025-05-21,Excelente servicio y comida.
+402,166,3,2025-11-25,La experiencia fue aceptable.
+70,190,2,2024-12-26,Buena relación entre precio y calidad.
+355,91,1,2024-08-25,La comida estuvo deliciosa.
+307,9,2,2025-12-06,Los platillos estuvieron bien preparados.
+233,134,1,2026-06-10,Regresaría nuevamente.
+351,165,1,2024-09-05,La comida estuvo deliciosa.
+225,136,4,2025-01-19,La atención fue rápida.
+329,2,5,2025-03-18,Regresaría nuevamente.
+11,51,3,2026-04-28,Muy buena experiencia.
+141,29,5,2024-12-02,Buena relación entre precio y calidad.
+493,59,4,2025-07-22,El servicio puede mejorar.
+311,183,5,2025-11-09,El ambiente fue agradable.
+346,44,3,2024-12-10,Excelente servicio y comida.
+415,171,5,2024-10-24,La atención fue rápida.
+484,102,3,2025-12-30,Buena relación entre precio y calidad.
+478,129,2,2026-04-15,Los platillos estuvieron bien preparados.
+200,80,4,2026-03-16,El servicio puede mejorar.
+204,35,5,2025-11-11,Regresaría nuevamente.
+296,55,3,2025-10-01,Excelente servicio y comida.
+115,175,2,2026-05-16,La experiencia fue aceptable.
+440,73,2,2026-04-01,Muy buena experiencia.
+123,139,3,2026-03-13,Muy buena experiencia.
+334,134,3,2024-10-05,Regresaría nuevamente.
+158,44,1,2024-09-24,El ambiente fue agradable.
+245,132,3,2025-04-29,La experiencia fue aceptable.
+483,20,4,2024-11-16,La comida estuvo deliciosa.
+192,144,1,2025-07-27,La experiencia fue aceptable.
+455,200,4,2025-10-30,Regresaría nuevamente.
+270,18,4,2026-01-10,El ambiente fue agradable.
+113,71,5,2025-05-08,El ambiente fue agradable.
+179,60,3,2024-07-30,Los platillos estuvieron bien preparados.
+219,35,3,2026-05-27,Regresaría nuevamente.
+421,138,5,2025-08-11,Excelente servicio y comida.
+24,37,5,2026-03-11,La comida estuvo deliciosa.
+18,177,2,2024-12-25,La experiencia fue aceptable.
+264,108,3,2025-01-13,Excelente servicio y comida.
+210,60,1,2025-01-15,Buena relación entre precio y calidad.
+95,125,5,2025-11-26,Muy buena experiencia.
+337,88,2,2026-06-22,Muy buena experiencia.
+210,195,3,2025-08-14,La experiencia fue aceptable.
+108,98,3,2025-12-26,La comida estuvo deliciosa.
+164,120,4,2025-01-04,Excelente servicio y comida.
+491,167,1,2025-07-21,La atención fue rápida.
+414,100,2,2024-10-26,Excelente servicio y comida.
+332,92,4,2025-06-20,Muy buena experiencia.
+12,42,5,2026-01-31,El ambiente fue agradable.
+75,95,5,2024-10-15,El ambiente fue agradable.
+208,167,2,2024-09-08,Muy buena experiencia.
+96,152,3,2024-10-11,La atención fue rápida.
+29,7,3,2024-08-30,Regresaría nuevamente.
+134,126,2,2026-01-15,Buena relación entre precio y calidad.
+231,65,5,2026-05-12,Muy buena experiencia.
+489,68,1,2025-08-13,La comida estuvo deliciosa.
+384,62,4,2025-03-31,Excelente servicio y comida.
+14,163,5,2024-09-17,Muy buena experiencia.
+390,80,5,2024-11-13,La experiencia fue aceptable.
+230,179,5,2025-10-05,La comida estuvo deliciosa.
+71,192,3,2026-01-28,El ambiente fue agradable.
+146,148,2,2024-08-07,Muy buena experiencia.
+47,37,2,2025-05-06,Muy buena experiencia.
+424,161,4,2024-10-21,Regresaría nuevamente.
+158,83,3,2024-08-24,La experiencia fue aceptable.
+144,142,3,2026-04-08,La comida estuvo deliciosa.
+285,170,1,2025-07-05,Buena relación entre precio y calidad.
+3,14,2,2024-10-09,Buena relación entre precio y calidad.
+403,165,3,2025-05-03,La experiencia fue aceptable.
+330,182,4,2026-01-10,El ambiente fue agradable.
+116,137,3,2025-08-06,Muy buena experiencia.
+76,194,3,2024-08-21,Muy buena experiencia.
+262,125,4,2025-02-05,El servicio puede mejorar.
+444,55,2,2025-07-22,Muy buena experiencia.
+53,85,4,2026-06-07,La experiencia fue aceptable.
+313,51,1,2025-07-27,El ambiente fue agradable.
+29,66,5,2025-09-09,El ambiente fue agradable.
+407,147,4,2026-05-09,La atención fue rápida.
+148,99,4,2024-10-12,Los platillos estuvieron bien preparados.
+266,170,4,2026-06-20,Los platillos estuvieron bien preparados.
+53,102,2,2025-04-08,Buena relación entre precio y calidad.
+149,53,3,2025-08-20,Regresaría nuevamente.
+455,54,5,2026-01-03,Regresaría nuevamente.
+248,196,2,2026-05-21,El servicio puede mejorar.
+326,169,1,2025-08-24,El ambiente fue agradable.
+349,4,2,2026-03-19,La comida estuvo deliciosa.
+33,92,5,2026-05-29,La atención fue rápida.
+104,185,4,2025-05-14,El servicio puede mejorar.
+450,62,1,2025-09-07,El ambiente fue agradable.
+175,161,4,2025-01-25,El ambiente fue agradable.
+380,12,5,2024-06-28,La experiencia fue aceptable.
+340,59,5,2025-12-09,La comida estuvo deliciosa.
+344,22,4,2025-05-10,La comida estuvo deliciosa.
+101,40,1,2024-12-28,Muy buena experiencia.
+251,172,1,2025-01-25,La comida estuvo deliciosa.
+475,108,4,2025-04-28,La comida estuvo deliciosa.
+391,119,3,2025-12-22,Muy buena experiencia.
+489,86,2,2026-06-18,La experiencia fue aceptable.
+321,1,2,2026-01-18,La experiencia fue aceptable.
+410,104,2,2025-08-15,La experiencia fue aceptable.
+195,126,3,2025-10-21,La comida estuvo deliciosa.
+447,96,1,2026-05-16,Excelente servicio y comida.
+41,152,2,2025-05-01,La comida estuvo deliciosa.
+269,145,1,2025-07-24,Buena relación entre precio y calidad.
+333,152,3,2025-06-21,El ambiente fue agradable.
+34,200,1,2025-11-24,La comida estuvo deliciosa.
+98,175,2,2026-02-22,La experiencia fue aceptable.
+30,176,2,2025-01-16,Muy buena experiencia.
+23,135,4,2024-06-25,El servicio puede mejorar.
+39,22,5,2025-09-15,Muy buena experiencia.
+151,200,4,2025-12-03,Excelente servicio y comida.
+495,106,3,2026-04-18,El servicio puede mejorar.
+37,111,1,2024-11-03,La atención fue rápida.
+429,87,1,2024-11-29,El servicio puede mejorar.
+317,22,5,2026-02-09,Muy buena experiencia.
+243,164,3,2025-09-26,Regresaría nuevamente.
+487,73,1,2025-11-28,Buena relación entre precio y calidad.
+445,94,2,2026-04-12,Excelente servicio y comida.
+437,104,1,2026-04-16,Muy buena experiencia.
+102,4,3,2025-03-23,La comida estuvo deliciosa.
+409,149,3,2024-08-20,Los platillos estuvieron bien preparados.
+129,133,2,2024-12-18,Muy buena experiencia.
+103,143,2,2026-01-23,Regresaría nuevamente.
+398,86,2,2025-05-26,La experiencia fue aceptable.
+375,117,5,2024-12-26,La comida estuvo deliciosa.
+407,125,1,2025-05-21,La comida estuvo deliciosa.
+163,97,3,2026-02-03,Excelente servicio y comida.
+17,46,1,2024-06-24,La atención fue rápida.
+350,137,5,2025-04-14,La experiencia fue aceptable.
+439,73,3,2025-03-28,El servicio puede mejorar.
+381,122,2,2026-05-30,Regresaría nuevamente.
+104,180,1,2026-06-10,Muy buena experiencia.
+69,94,4,2025-05-18,El ambiente fue agradable.
+34,35,1,2026-01-17,La atención fue rápida.
+410,162,3,2025-10-25,La atención fue rápida.
+283,126,2,2025-05-28,Muy buena experiencia.
+435,19,4,2025-10-06,Buena relación entre precio y calidad.
+182,103,3,2025-01-14,Buena relación entre precio y calidad.
+409,31,1,2025-03-12,Regresaría nuevamente.
+348,100,4,2025-08-03,La atención fue rápida.
+35,34,5,2025-08-16,La experiencia fue aceptable.
+343,103,1,2025-04-02,Regresaría nuevamente.
+186,99,1,2026-01-01,El servicio puede mejorar.
+227,47,5,2025-10-14,El ambiente fue agradable.
+294,60,2,2025-12-16,Buena relación entre precio y calidad.
+223,151,4,2025-01-12,El servicio puede mejorar.
+258,120,2,2025-04-13,La atención fue rápida.
+204,86,1,2026-01-10,Buena relación entre precio y calidad.
+153,67,4,2024-08-14,Excelente servicio y comida.
+20,181,2,2024-09-21,Buena relación entre precio y calidad.
+357,100,3,2025-02-26,Muy buena experiencia.
+412,168,5,2025-06-02,Muy buena experiencia.
+252,175,5,2025-04-07,El servicio puede mejorar.
+266,113,5,2025-01-06,Buena relación entre precio y calidad.
+427,113,3,2024-12-10,Buena relación entre precio y calidad.
+466,195,2,2026-02-28,Regresaría nuevamente.
+155,113,2,2025-12-31,La atención fue rápida.
+455,146,5,2024-09-16,El servicio puede mejorar.
+4,183,1,2025-02-07,Los platillos estuvieron bien preparados.
+11,190,2,2024-12-23,Muy buena experiencia.
+411,7,2,2026-01-14,Muy buena experiencia.
+223,143,5,2024-08-19,La experiencia fue aceptable.
+188,176,3,2026-04-03,La atención fue rápida.
+200,26,5,2025-02-07,Muy buena experiencia.
+421,2,3,2024-08-24,Muy buena experiencia.
+374,24,5,2025-10-29,Muy buena experiencia.
+77,167,1,2024-12-26,El servicio puede mejorar.
+332,183,2,2025-01-12,Muy buena experiencia.
+289,85,5,2025-07-08,La atención fue rápida.
+71,74,4,2025-01-27,El ambiente fue agradable.
+168,162,1,2025-05-21,Muy buena experiencia.
+397,183,4,2026-01-03,La atención fue rápida.
+408,127,5,2025-10-03,El servicio puede mejorar.
+154,138,1,2025-10-09,La experiencia fue aceptable.
+45,99,2,2024-07-09,Regresaría nuevamente.
+221,123,3,2024-08-27,Buena relación entre precio y calidad.
+368,152,1,2025-06-21,La experiencia fue aceptable.
+24,34,3,2026-06-02,Muy buena experiencia.
+246,20,1,2026-02-10,El servicio puede mejorar.
+285,152,3,2025-06-10,La comida estuvo deliciosa.
+459,90,3,2024-08-01,La experiencia fue aceptable.
+400,95,4,2024-08-12,La atención fue rápida.
+356,144,3,2025-07-19,Excelente servicio y comida.
+94,2,4,2025-08-19,El servicio puede mejorar.
+200,92,1,2024-10-31,El servicio puede mejorar.
+271,130,4,2026-01-20,Regresaría nuevamente.
+340,121,2,2025-09-03,Buena relación entre precio y calidad.
+257,128,5,2025-05-15,Buena relación entre precio y calidad.
+157,110,4,2025-10-23,Muy buena experiencia.
+472,106,1,2025-12-31,Regresaría nuevamente.
+43,66,1,2024-08-04,El servicio puede mejorar.
+256,168,4,2026-01-19,Los platillos estuvieron bien preparados.
+351,144,1,2024-08-02,Los platillos estuvieron bien preparados.
+392,111,3,2024-09-03,Muy buena experiencia.
+153,121,4,2024-07-13,Buena relación entre precio y calidad.
+240,36,3,2024-12-14,Muy buena experiencia.
+221,143,2,2025-07-15,La comida estuvo deliciosa.
+412,161,5,2025-12-11,El ambiente fue agradable.
+238,83,5,2025-05-06,La atención fue rápida.
+205,35,5,2025-09-21,El ambiente fue agradable.
+229,95,5,2025-08-28,Regresaría nuevamente.
+192,20,2,2025-06-09,Excelente servicio y comida.
+91,54,1,2025-09-15,Excelente servicio y comida.

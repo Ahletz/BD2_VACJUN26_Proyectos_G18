@@ -1,0 +1,101 @@
+id,nombre,fecha_nacimiento,nacionalidad
+1,Lic. Mercedes Robledo,1999-01-21,Costarricense
+2,María Cristina Lucía Godínez,1968-10-01,Argentina
+3,Alicia Andrea Ornelas,1968-03-19,Mexicana
+4,Soledad Verónica Castillo Sevilla,1996-06-27,Hondureña
+5,Sra. Amelia Muñiz,1983-05-19,Colombiana
+6,Lucía Mojica Raya,1956-03-12,Mexicana
+7,Cecilia Villalpando Mendoza,1992-11-17,Argentina
+8,Sr. Joaquín Gaitán,1998-02-22,Mexicana
+9,Estefanía Andrea Ulibarri Guerrero,1977-04-08,Chilena
+10,Espartaco Guerrero Gracia,1963-11-26,Chilena
+11,Blanca Aurora Preciado Orosco,1967-01-26,Costarricense
+12,Lic. Eric Portillo,1975-05-25,Colombiana
+13,Timoteo Linares,1989-08-07,Argentina
+14,Aida Nancy Alcala,1967-01-14,Chilena
+15,Zeferino Samuel Gil,1961-07-27,Chilena
+16,Carlota Salgado,1996-01-20,Costarricense
+17,Arcelia Hernádez,1977-03-08,Hondureña
+18,Eloisa Lucero,1962-01-10,Chilena
+19,Socorro Olivares Rendón,1995-02-15,Peruana
+20,Olga Ivonne Galindo,1992-04-02,Salvadoreña
+21,Amanda Frías Montañez,1988-01-12,Peruana
+22,Susana Trinidad Cantú,1989-02-05,Argentina
+23,Paola Matías,1986-10-07,Costarricense
+24,Mónica Berta Candelaria Menéndez,1979-10-16,Guatemalteca
+25,Amalia Isabel del Río,1997-05-11,Peruana
+26,Carla Robledo Armas,1967-05-12,Chilena
+27,Elias Pantoja Hurtado,1967-04-30,Costarricense
+28,Gabriela Carranza Luna,1987-09-04,Peruana
+29,Abril Miramontes Herrera,2000-03-09,Española
+30,Amador Gutiérrez,1964-04-25,Costarricense
+31,Eloy Sepúlveda,1999-01-31,Argentina
+32,Mariano Leonardo Ramos Nieto,1976-11-24,Costarricense
+33,Rosario Elvia Rendón Zapata,1987-08-13,Hondureña
+34,Daniel Fidel Muñiz,1962-08-04,Chilena
+35,Alta  Gracia Luisa Moreno Olivo,1984-09-08,Española
+36,Ing. Rufino Cantú,2000-11-21,Salvadoreña
+37,Karina Bermúdez,1970-01-31,Colombiana
+38,Rosa Galván,1977-10-26,Peruana
+39,Luisa Rendón Trujillo,1963-07-04,Costarricense
+40,Gustavo Óliver Lemus Angulo,1977-01-16,Costarricense
+41,Amalia Bueno,1960-09-23,Costarricense
+42,Roberto Gracia Castañeda,1960-07-20,Mexicana
+43,Iván Cervantes Guillen,1986-09-27,Chilena
+44,Blanca Sessa Orosco,1987-08-21,Hondureña
+45,Lic. Aurelio Monroy,1964-12-18,Guatemalteca
+46,Elias Robledo,1981-11-22,Hondureña
+47,Estela Gabriela Maya Sáenz,1978-07-30,Chilena
+48,Verónica Ana María Vigil,1967-03-07,Chilena
+49,Timoteo Miguel Ángel Crespo Cabrera,1979-04-19,Colombiana
+50,Dr. Zeferino Sauceda,2000-04-29,Colombiana
+51,José Luis Alonso Santacruz,1974-07-25,Mexicana
+52,Carla Bianca Limón Vera,1974-11-28,Colombiana
+53,Fabiola Ayala Riojas,1985-03-23,Argentina
+54,Srita. Asunción Carrera,1992-11-27,Argentina
+55,Paola Barrios González,1992-05-31,Chilena
+56,Sra. Wendolin Aragón,1959-07-14,Española
+57,Jonás Ricardo Guillen Macías,1980-10-09,Chilena
+58,Anabel Aguirre Saucedo,1992-11-24,Argentina
+59,Citlali Pilar Morales,1985-09-28,Mexicana
+60,Esteban Carrión Barrera,1981-10-27,Colombiana
+61,Lic. Gabriel Mateo,1971-10-03,Argentina
+62,Ilse Noemí Llamas,1992-11-04,Española
+63,Sr. Esteban Méndez,1970-02-15,Chilena
+64,Liliana Vázquez,1961-07-11,Colombiana
+65,Carolina Lozada Muñoz,1978-02-20,Chilena
+66,César Gonzalo Sanabria Mondragón,1989-01-28,Argentina
+67,Elsa Camarillo Gastélum,1957-03-25,Colombiana
+68,Lic. Pamela Segovia,1975-05-07,Guatemalteca
+69,Benjamín Aurelio Flórez Carreón,2000-10-15,Colombiana
+70,Blanca Itzel Vallejo,1974-11-05,Argentina
+71,Lic. Mitzy Canales,1964-07-02,Colombiana
+72,Olga Trinidad Jimínez,1990-03-19,Costarricense
+73,Hugo Arellano,1990-11-06,Española
+74,Salma Florencia Alcaraz,1972-04-20,Guatemalteca
+75,Antonio Luis Miguel Montemayor,1981-07-30,Colombiana
+76,Elvia Meraz,1968-03-03,Argentina
+77,Dra. Abigail Cordero,1970-05-02,Española
+78,Jaime Julio César Mateo Jimínez,2000-12-29,Guatemalteca
+79,Guadalupe Hurtado Robledo,1987-04-12,Chilena
+80,Gerardo Munguía,1971-09-23,Guatemalteca
+81,Vanesa Gálvez,1970-05-04,Costarricense
+82,Alejandro Jorge Luis Maya,1970-06-10,Peruana
+83,Dr. Francisco Javier Galarza,1961-06-17,Peruana
+84,María José Ariadna Báez,1967-05-20,Guatemalteca
+85,Benito Timoteo Alvarado Mora,1994-01-29,Mexicana
+86,Beatriz María del Carmen Jaime Fonseca,1979-05-31,Colombiana
+87,Margarita Canales,1988-05-03,Argentina
+88,Ing. Óliver Romero,2000-02-29,Costarricense
+89,Teodoro Roque Godoy,1986-04-07,Argentina
+90,Cristian Carvajal Porras,1971-07-29,Costarricense
+91,Miriam Julia Aguilar,1971-05-05,Costarricense
+92,Ana Balderas,1962-01-16,Guatemalteca
+93,Octavio Casas,2001-02-11,Hondureña
+94,Sr. Flavio Ibarra,1988-11-01,Hondureña
+95,Sr. Miguel Ángel Hernandes,1965-02-02,Guatemalteca
+96,Rubén Fidel Lemus Serrano,1982-07-06,Mexicana
+97,Srita. Marisol Treviño,1984-03-03,Hondureña
+98,Andrea de la O Centeno,1962-09-30,Salvadoreña
+99,Andrés Gregorio Vargas,2001-01-21,Guatemalteca
+100,Victoria Yolanda Verduzco Sotelo,1956-09-27,Colombiana

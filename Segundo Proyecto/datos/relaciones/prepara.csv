@@ -1,0 +1,351 @@
+chef_id,platillo_id,estilo,especialidad
+1,15,Fusión,Mariscos
+1,10,Contemporáneo,Mariscos
+1,9,Moderno,Carnes
+2,38,Fusión,Carnes
+2,6,Internacional,Postres
+2,31,Contemporáneo,Mariscos
+2,12,Moderno,Mariscos
+3,40,Tradicional,Postres
+3,2,Tradicional,Postres
+3,27,Artesanal,Comida vegetariana
+3,25,Artesanal,Pastas
+3,50,Contemporáneo,Postres
+4,47,Tradicional,Pastas
+4,43,Moderno,Cocina tradicional
+4,50,Contemporáneo,Carnes
+5,39,Artesanal,Cocina tradicional
+5,33,Contemporáneo,Comida vegetariana
+6,24,Tradicional,Comida vegetariana
+6,7,Contemporáneo,Comida vegetariana
+7,19,Tradicional,Comida vegetariana
+7,31,Fusión,Carnes
+7,34,Artesanal,Cocina internacional
+7,39,Moderno,Pastas
+7,3,Moderno,Pastas
+8,21,Tradicional,Carnes
+8,43,Fusión,Comida vegetariana
+8,4,Internacional,Cocina tradicional
+8,26,Fusión,Cocina tradicional
+9,17,Fusión,Mariscos
+9,43,Moderno,Pastas
+10,36,Fusión,Cocina internacional
+10,40,Contemporáneo,Comida vegetariana
+10,38,Internacional,Cocina internacional
+10,24,Fusión,Postres
+11,21,Artesanal,Cocina internacional
+11,31,Moderno,Cocina tradicional
+11,42,Fusión,Cocina internacional
+11,10,Internacional,Cocina tradicional
+12,47,Artesanal,Postres
+12,40,Internacional,Cocina internacional
+12,14,Contemporáneo,Postres
+12,20,Tradicional,Cocina internacional
+12,9,Tradicional,Cocina tradicional
+13,37,Tradicional,Postres
+13,25,Artesanal,Mariscos
+13,6,Artesanal,Carnes
+13,19,Internacional,Cocina internacional
+13,11,Internacional,Mariscos
+14,19,Fusión,Mariscos
+14,16,Tradicional,Cocina tradicional
+14,50,Internacional,Cocina internacional
+14,37,Moderno,Pastas
+15,8,Fusión,Cocina internacional
+15,13,Internacional,Cocina tradicional
+15,26,Tradicional,Mariscos
+15,49,Artesanal,Cocina internacional
+16,39,Tradicional,Postres
+16,7,Fusión,Pastas
+16,22,Artesanal,Pastas
+16,10,Internacional,Pastas
+17,49,Contemporáneo,Comida vegetariana
+17,2,Tradicional,Postres
+17,14,Fusión,Comida vegetariana
+17,36,Tradicional,Cocina tradicional
+18,15,Fusión,Pastas
+18,14,Fusión,Mariscos
+19,48,Artesanal,Pastas
+19,27,Moderno,Cocina internacional
+19,29,Internacional,Carnes
+20,5,Tradicional,Comida vegetariana
+20,8,Contemporáneo,Mariscos
+20,7,Contemporáneo,Carnes
+21,49,Tradicional,Comida vegetariana
+21,2,Moderno,Postres
+21,32,Fusión,Pastas
+21,38,Contemporáneo,Comida vegetariana
+21,5,Tradicional,Mariscos
+22,15,Artesanal,Cocina tradicional
+22,27,Internacional,Comida vegetariana
+22,14,Fusión,Cocina tradicional
+22,33,Contemporáneo,Cocina tradicional
+23,38,Fusión,Comida vegetariana
+23,40,Artesanal,Pastas
+23,5,Tradicional,Mariscos
+24,19,Internacional,Mariscos
+24,31,Moderno,Carnes
+25,19,Moderno,Cocina internacional
+25,13,Internacional,Postres
+26,11,Artesanal,Mariscos
+26,10,Contemporáneo,Postres
+26,23,Moderno,Pastas
+26,12,Artesanal,Carnes
+26,24,Artesanal,Cocina internacional
+27,28,Fusión,Postres
+27,23,Artesanal,Carnes
+27,14,Tradicional,Cocina tradicional
+28,32,Tradicional,Carnes
+28,46,Tradicional,Pastas
+28,49,Contemporáneo,Cocina internacional
+28,48,Internacional,Mariscos
+29,49,Artesanal,Mariscos
+29,11,Internacional,Comida vegetariana
+30,46,Fusión,Comida vegetariana
+30,5,Tradicional,Carnes
+30,18,Internacional,Postres
+30,41,Contemporáneo,Pastas
+30,7,Moderno,Mariscos
+31,40,Internacional,Cocina tradicional
+31,45,Tradicional,Postres
+31,26,Internacional,Postres
+31,38,Tradicional,Cocina internacional
+32,7,Moderno,Pastas
+32,47,Contemporáneo,Mariscos
+32,39,Artesanal,Carnes
+33,28,Moderno,Comida vegetariana
+33,6,Contemporáneo,Cocina tradicional
+33,46,Fusión,Cocina internacional
+33,4,Contemporáneo,Postres
+33,5,Tradicional,Mariscos
+34,23,Internacional,Cocina internacional
+34,41,Fusión,Pastas
+34,7,Artesanal,Mariscos
+34,15,Internacional,Cocina tradicional
+35,25,Tradicional,Mariscos
+35,35,Tradicional,Comida vegetariana
+35,16,Fusión,Cocina internacional
+35,6,Fusión,Pastas
+35,12,Fusión,Carnes
+36,1,Fusión,Postres
+36,47,Moderno,Cocina tradicional
+37,9,Contemporáneo,Pastas
+37,24,Contemporáneo,Cocina tradicional
+38,39,Tradicional,Cocina tradicional
+38,42,Tradicional,Cocina internacional
+38,26,Artesanal,Pastas
+38,36,Tradicional,Carnes
+38,8,Internacional,Comida vegetariana
+39,26,Tradicional,Mariscos
+39,41,Contemporáneo,Comida vegetariana
+40,26,Artesanal,Pastas
+40,23,Tradicional,Pastas
+40,33,Tradicional,Postres
+41,7,Internacional,Mariscos
+41,14,Internacional,Postres
+42,4,Artesanal,Cocina tradicional
+42,47,Fusión,Postres
+42,44,Artesanal,Cocina internacional
+43,8,Tradicional,Cocina internacional
+43,42,Fusión,Pastas
+44,11,Internacional,Cocina internacional
+44,29,Fusión,Cocina tradicional
+44,15,Moderno,Mariscos
+44,8,Internacional,Postres
+44,44,Tradicional,Cocina tradicional
+45,44,Moderno,Mariscos
+45,15,Artesanal,Postres
+45,40,Tradicional,Postres
+45,45,Tradicional,Cocina tradicional
+45,32,Moderno,Cocina internacional
+46,49,Contemporáneo,Pastas
+46,6,Fusión,Cocina tradicional
+46,12,Moderno,Mariscos
+46,15,Contemporáneo,Comida vegetariana
+46,9,Fusión,Cocina tradicional
+47,43,Contemporáneo,Postres
+47,23,Moderno,Comida vegetariana
+47,13,Fusión,Pastas
+47,1,Internacional,Mariscos
+48,25,Tradicional,Mariscos
+48,9,Moderno,Mariscos
+49,35,Fusión,Carnes
+49,6,Contemporáneo,Mariscos
+49,22,Tradicional,Postres
+49,3,Contemporáneo,Postres
+49,2,Tradicional,Pastas
+50,32,Artesanal,Postres
+50,48,Artesanal,Postres
+50,16,Fusión,Cocina internacional
+50,28,Tradicional,Cocina tradicional
+51,2,Tradicional,Mariscos
+51,9,Contemporáneo,Postres
+51,35,Moderno,Cocina internacional
+51,39,Moderno,Postres
+51,19,Contemporáneo,Postres
+52,3,Moderno,Cocina tradicional
+52,40,Moderno,Cocina internacional
+52,4,Internacional,Cocina internacional
+53,18,Fusión,Cocina tradicional
+53,11,Internacional,Postres
+53,6,Contemporáneo,Cocina internacional
+53,5,Contemporáneo,Pastas
+53,35,Artesanal,Carnes
+54,21,Fusión,Pastas
+54,43,Fusión,Carnes
+55,27,Internacional,Pastas
+55,25,Contemporáneo,Carnes
+55,40,Fusión,Comida vegetariana
+55,49,Fusión,Cocina tradicional
+55,31,Fusión,Postres
+56,37,Moderno,Postres
+56,23,Artesanal,Pastas
+56,15,Contemporáneo,Cocina internacional
+56,25,Internacional,Mariscos
+57,46,Fusión,Mariscos
+57,26,Internacional,Cocina tradicional
+58,16,Internacional,Cocina internacional
+58,7,Internacional,Cocina tradicional
+59,2,Tradicional,Postres
+59,3,Moderno,Postres
+59,32,Tradicional,Postres
+59,7,Artesanal,Comida vegetariana
+60,45,Moderno,Postres
+60,20,Moderno,Carnes
+61,25,Internacional,Cocina internacional
+61,48,Artesanal,Postres
+61,10,Fusión,Mariscos
+61,2,Fusión,Comida vegetariana
+62,12,Moderno,Postres
+62,27,Tradicional,Carnes
+62,21,Contemporáneo,Carnes
+62,41,Internacional,Mariscos
+62,23,Tradicional,Pastas
+63,26,Moderno,Pastas
+63,47,Moderno,Cocina internacional
+64,10,Fusión,Postres
+64,20,Moderno,Comida vegetariana
+65,49,Fusión,Pastas
+65,47,Internacional,Mariscos
+65,39,Moderno,Carnes
+65,24,Artesanal,Mariscos
+65,41,Fusión,Postres
+66,15,Fusión,Postres
+66,16,Tradicional,Comida vegetariana
+66,17,Artesanal,Cocina internacional
+66,2,Moderno,Pastas
+67,43,Internacional,Carnes
+67,41,Contemporáneo,Pastas
+67,3,Moderno,Carnes
+67,11,Internacional,Pastas
+67,14,Internacional,Mariscos
+68,15,Fusión,Mariscos
+68,37,Internacional,Pastas
+68,42,Moderno,Postres
+68,12,Internacional,Mariscos
+69,25,Moderno,Comida vegetariana
+69,6,Contemporáneo,Pastas
+70,30,Moderno,Cocina internacional
+70,38,Internacional,Carnes
+70,49,Artesanal,Comida vegetariana
+70,46,Artesanal,Comida vegetariana
+70,35,Tradicional,Cocina tradicional
+71,24,Fusión,Cocina tradicional
+71,39,Internacional,Comida vegetariana
+71,31,Internacional,Carnes
+72,29,Fusión,Pastas
+72,1,Moderno,Carnes
+73,13,Tradicional,Pastas
+73,35,Tradicional,Pastas
+73,9,Fusión,Cocina tradicional
+74,47,Moderno,Cocina internacional
+74,3,Internacional,Comida vegetariana
+75,42,Artesanal,Carnes
+75,4,Moderno,Pastas
+76,10,Internacional,Cocina internacional
+76,49,Moderno,Cocina internacional
+76,44,Moderno,Carnes
+76,37,Artesanal,Pastas
+77,34,Moderno,Cocina internacional
+77,42,Tradicional,Mariscos
+77,48,Moderno,Cocina tradicional
+77,43,Internacional,Cocina tradicional
+78,46,Artesanal,Comida vegetariana
+78,38,Fusión,Carnes
+78,19,Artesanal,Cocina tradicional
+79,25,Moderno,Postres
+79,38,Artesanal,Comida vegetariana
+79,20,Moderno,Carnes
+79,9,Tradicional,Pastas
+80,1,Contemporáneo,Postres
+80,35,Tradicional,Postres
+80,17,Fusión,Cocina internacional
+81,10,Tradicional,Postres
+81,41,Contemporáneo,Comida vegetariana
+81,26,Internacional,Postres
+82,22,Fusión,Comida vegetariana
+82,23,Internacional,Carnes
+83,13,Artesanal,Pastas
+83,26,Moderno,Comida vegetariana
+83,24,Moderno,Postres
+83,50,Tradicional,Pastas
+84,11,Contemporáneo,Pastas
+84,17,Artesanal,Pastas
+84,43,Fusión,Carnes
+84,37,Moderno,Postres
+85,43,Fusión,Pastas
+85,16,Contemporáneo,Cocina internacional
+85,28,Artesanal,Mariscos
+85,32,Contemporáneo,Carnes
+85,9,Fusión,Cocina internacional
+86,48,Tradicional,Comida vegetariana
+86,33,Artesanal,Comida vegetariana
+86,35,Tradicional,Mariscos
+86,18,Fusión,Pastas
+86,7,Moderno,Cocina internacional
+87,50,Moderno,Pastas
+87,9,Contemporáneo,Cocina internacional
+87,25,Fusión,Comida vegetariana
+88,35,Artesanal,Carnes
+88,29,Moderno,Cocina internacional
+88,23,Internacional,Carnes
+88,5,Fusión,Cocina internacional
+89,16,Internacional,Postres
+89,3,Fusión,Cocina internacional
+89,27,Tradicional,Mariscos
+89,34,Contemporáneo,Mariscos
+89,17,Fusión,Comida vegetariana
+90,39,Fusión,Postres
+90,38,Internacional,Cocina internacional
+90,41,Artesanal,Pastas
+90,23,Internacional,Mariscos
+91,10,Moderno,Cocina internacional
+91,40,Internacional,Pastas
+92,21,Fusión,Comida vegetariana
+92,30,Tradicional,Comida vegetariana
+92,32,Fusión,Cocina tradicional
+93,35,Moderno,Postres
+93,17,Contemporáneo,Carnes
+93,1,Moderno,Cocina internacional
+94,40,Moderno,Cocina internacional
+94,38,Artesanal,Postres
+95,37,Fusión,Carnes
+95,43,Moderno,Mariscos
+95,3,Artesanal,Cocina tradicional
+95,16,Artesanal,Cocina tradicional
+95,13,Artesanal,Comida vegetariana
+96,13,Tradicional,Comida vegetariana
+96,21,Moderno,Pastas
+96,29,Contemporáneo,Postres
+97,37,Internacional,Mariscos
+97,33,Fusión,Comida vegetariana
+97,50,Moderno,Cocina tradicional
+97,29,Moderno,Pastas
+97,7,Moderno,Comida vegetariana
+98,48,Internacional,Postres
+98,45,Moderno,Carnes
+99,12,Fusión,Carnes
+99,10,Artesanal,Cocina tradicional
+99,8,Internacional,Mariscos
+100,7,Fusión,Pastas
+100,24,Internacional,Postres
